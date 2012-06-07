@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="cv2html.xsl"?>
+
+<resume keywords="PDF, PostScript, DocBook, RelaxNG, XSL, Python, Lisp, AJAX, Unix">
+
+  <person>
+    <firstname>David</firstname>
+    <lastname>Tolpin</lastname>
+    <contactinfo>
+      <email>dvd@davidashen.net</email>
+      <phone mode="mobile">+972-52-688-6489</phone>
+      <address>
+	<street>Balfur 16 app 1</street>
+	<city>Be'er Sheva</city>
+	<country>Israel</country>
+      </address>
+    </contactinfo>
+  </person>
+
+  <education>
+    <diploma since="2007" till="current">
+      <school>Ben Gurion University of the Negev</school>
+      <degree>expected: Master of Science in Computer Science. Thesis title: "Application of Limited Rationality Approach to Optimization under Uncertainty Problems"</degree>
+    </diploma>
+
+    <diploma since="1985" till="1992">
+      <school>Moscow State Technical University (Bauman)</school>
+      <degree>Master of Science in Applied Mechanics. Thesis title: "A Model for Chaotic Behavior in Deep Drilling"</degree>
+    </diploma>
+   </education>
+
+
+  <employments>
+    <employment since="2007" till="current">
+      <company url="http://www.bgu.ac.il/">Ben Gurion University of the Negev</company>
+      <position>Teaching Assistant</position>
+    </employment>
+
+    <employment since="April, 1999" till="January, 2007">
+      <company url="http://www.renderx.com/">RenderX</company>
+      <position>Developer, CTO</position>
+    </employment>
+
+    <employment since="October, 1997" till="June, 1998">
+      <company url="http://www.irex.org/">International Research and Exchanges Board</company>
+      <position>Coordinator for US&#x2013;Armenia Internet Access and Training Program</position>
+    </employment>
+
+    <employment since="April, 1996" till="October, 1997">
+      <company url="http://www.irex.ru/">Moscow Office of the International
+      Research and Exchanges Board</company>
+      <position>Webmaster, system administrator for Openweb  workshop</position>
+    </employment>
+
+    <employment since="November, 1994" till="October, 1997">
+      <company url="http://www.ice.ru/">Institute for Commercial Engineering</company>
+      <position>Engineer, CTO</position>
+    </employment>
+  </employments>
+
+  <publications>
+   <publication>Submitted to UAI2009: David Tolpin, Solomon Eyal Shimony. Semi-Myopic Sensing Plans for Value Optimization.</publication>
+   <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey (in Russian). Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
+   <publication>David Tolpin, 2006. US Patent 7024621: Methods and systems for rendering electronic data.</publication>
+   <publication>David Tolpin, 2005. US Patent 6971062: Methods for rendering footnotes.</publication>
+  </publications>
+ 
+  <projects>
+    <project since="December, 2003" till="March, 2007">
+      <subject>SYRENE</subject>
+      <para>SYRENE is SYndrome REasoning NEtwork. Syrene is a set of tools  for experiments in syndrome analysis and explanation generation.</para>
+      <para>Implemented the system in Haskell as a by-product of research in <ulink url="http://www.iitp.ru/">Institute for Information Transmission Problems</ulink></para>.
+    </project>
+    <project since="October, 2003" till="March, 2004">
+      <subject url="http://davidashen.net/rnv.html"><emphasis role="bold">RNV</emphasis> — Relax NG validator</subject>
+      <para>
+      RNV is an implementation of <ulink url="http://relaxng.org/">Relax NG</ulink> Compact Syntax validator in ANSI C.
+      </para>
+      <para>Implemented the validator from scratch. The validator
+      is widely used and is known to be conformant and the fastest
+      implementation of Relax NG. Wrote two implementations of W3C
+      XML Schema Datatypes, in ANSI C and R5RS Scheme, for the
+      validator.
+     </para>
+    </project>
+
+    <project since="April, 1999" till="July, 2003">
+      <subject url="http://www.renderx.com/tools/xep.html"><emphasis role="bold italic">XEP</emphasis> &#x2014; XSL Formatting Objects Rendering Engine</subject>
+      <para>Designed and led a team of engineers to implement the first commercially available and still one of the best implementations
+      of <ulink url="http://www.w3.org/TR/xsl">XSL Formatting Objects</ulink>. Wrote core modules of the formatting engine.
+      </para>
+    </project>
+
+    <project since="1994" till="1996">
+      <subject><emphasis role="bold italic">rwww</emphasis> &#x2014; WWW Search Engine with Support for Russian Morphology</subject>
+      <para>Designed and implemented a non-dictionary stemming algorithm for the Russian language (Rustem).
+	Wrote the stemming module in Scheme and ANSI C.
+	Modified and improved <emphasis role="bold italic">freeWAIS</emphasis> to support 8-bit encodings 
+	and calls to external wordform normalizers. Wrote a WWW scanning robot in Perl.
+      </para>
+    </project>
+  </projects>
+
+
+</resume>
