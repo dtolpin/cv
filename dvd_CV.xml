@@ -2,16 +2,18 @@
 
 <?xml-stylesheet type="text/xsl" href="cv2html.xsl"?>
 
-<resume keywords="PDF, PostScript, DocBook, RelaxNG, XSL, Python, Lisp, AJAX, Unix">
+<resume keywords="Metareasoning, Artificial Intelligence, Search, Digital Typography">
 
   <person>
     <firstname>David</firstname>
     <lastname>Tolpin</lastname>
     <contactinfo>
-      <email>dvd@davidashen.net</email>
-      <phone mode="mobile">+972-52-688-6489</phone>
+      <email>tolpin@cs.bgu.ac.il</email>
+      <phone mode="office">+972-8642-8040</phone>
       <address>
-	<street>Balfur 16 app 1</street>
+	<street>Department of Computer Science, </street>
+        <street>Ben-Gurion University of the Negev, </street>
+        <street>PO Box 653</street>
 	<city>Be'er Sheva</city>
 	<country>Israel</country>
       </address>
@@ -19,9 +21,14 @@
   </person>
 
   <education>
-    <diploma since="2007" till="current">
+    <diploma since="2009" till="current">
+      <school>Ben-Gurion University of the Negev</school>
+      <degree>expected: Ph.D. Thesis title: "Rational Metareasoning in
+      Problem-Solving Search"</degree>
+    </diploma>
+    <diploma since="2007" till="2009">
       <school>Ben Gurion University of the Negev</school>
-      <degree>expected: Master of Science in Computer Science. Thesis title: "Application of Limited Rationality Approach to Optimization under Uncertainty Problems"</degree>
+      <degree>Master of Science in Computer Science. Thesis title: "Application of Limited Rationality Approach to Optimization under Uncertainty Problems"</degree>
     </diploma>
 
     <diploma since="1985" till="1992">
@@ -60,8 +67,17 @@
   </employments>
 
   <publications>
-   <publication>Submitted to UAI2009: David Tolpin, Solomon Eyal Shimony. Semi-Myopic Sensing Plans for Value Optimization.</publication>
-   <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey (in Russian). Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
+    <publication>David Tolpin, Solomon Eyal Shimony. VOI-aware
+    MCTS. ECAI-2012. To appear.</publication>
+    <publication>David Tolpin, Solomon Eyal Shimony. MCTS Based on
+    Simple Regret. AAAI-2012. To appear.</publication>
+    <publication>David Tolpin, Solomon Eyal Shimony. Semimyopic
+      measurement selection for optimization under uncertainty. IEEE
+      Transactions on Systems, Man, and Cybernetics, Part B, Part B, 42(2):565–579, 2012</publication>
+    <publication>David Tolpin, Solomon Eyal Shimony. Rational Deployment of CSP Heuristics. IJCAI-2011. pp. 680-686</publication>
+    <publication>David Tolpin, Solomon Eyal Shimony. Rational Value of
+      Information Estimation for Measurement Selection. 25th Mini-EURO Conference: URPDM-2010. </publication>
+   <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey. Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
    <publication>David Tolpin, 2006. US Patent 7024621: Methods and systems for rendering electronic data.</publication>
    <publication>David Tolpin, 2005. US Patent 6971062: Methods for rendering footnotes.</publication>
   </publications>
@@ -70,7 +86,7 @@
     <project since="December, 2003" till="March, 2007">
       <subject>SYRENE</subject>
       <para>SYRENE is SYndrome REasoning NEtwork. Syrene is a set of tools  for experiments in syndrome analysis and explanation generation.</para>
-      <para>Implemented the system in Haskell as a by-product of research in <ulink url="http://www.iitp.ru/">Institute for Information Transmission Problems</ulink></para>.
+      <para>Implemented the system in Haskell as a by-product of research in <ulink url="http://www.iitp.ru/">Institute for Information Transmission Problems</ulink>.</para>
     </project>
     <project since="October, 2003" till="March, 2004">
       <subject url="http://davidashen.net/rnv.html"><emphasis role="bold">RNV</emphasis> — Relax NG validator</subject>
