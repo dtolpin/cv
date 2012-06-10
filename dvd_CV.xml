@@ -83,6 +83,15 @@
   </publications>
  
   <projects>
+    <project since="March, 2012" till="current">
+      <subject>YUNG YiDiSH Catalog online</subject>
+      <para>
+        <a href="http://yiddish.co.il/">Yung YiDiSH</a> is a
+        living yiddish museum. Work underway is to put online a verified
+        easy-to-search and update catalog of the 40,000 yiddish book
+        collection.
+      </para>
+    </project>
     <project since="December, 2003" till="March, 2007">
       <subject>SYRENE</subject>
       <para>SYRENE is SYndrome REasoning NEtwork. Syrene is a set of tools  for experiments in syndrome analysis and explanation generation.</para>
