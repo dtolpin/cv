@@ -5,7 +5,7 @@ XSLT=saxon-xslt
 .SUFFIXES: .xml .html .pdf .txt
 
 .xml.html:
-	${XSLT} $< cv2html.xsl > $@
+	${XSLT} $< cv2html.xsl > $@  || ( rm $@; exit 1 )
 
 .html.txt:
 	lynx -dump $< \
