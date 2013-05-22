@@ -34,18 +34,19 @@
     <head>
       <title><xsl:apply-templates select="person" mode="name-only"/></title>
       <style type="text/css">
+	    body { font: 10pt serif; line-height: 1.44 }
         a { color: <xsl:value-of select="$href-color"/>; }
-        p { font-family: Helvetica; text-align: justify;
+        p { text-align: justify;
             margin-top: 6pt; margin-bottom: 6pt; margin-right: 6pt; }
-        li { font-family: Helvetica; text-align: justify;
+        li {text-align: justify;
             margin-top: 3pt; margin-bottom: 3pt; margin-right: 6pt; }
-        h1 {font-family: Helvetica; text-align: left;
+        h1 {font-family: "sans serif"; text-align: left;
             color: <xsl:value-of select="$title-color"/>;
             margin-right: 6pt; }
-        h2 {font-family: Helvetica; text-align: left;
+        h2 {font-family: "sans serif"; text-align: left;
             color: <xsl:value-of select="$title-color"/>;
             margin-right: 6pt; }
-        h3 {font-family: Helvetica; text-align: left;
+        h3 {font-family: "sans serif"; text-align: left;
             color: <xsl:value-of select="$title-color"/>;
             margin-right: 6pt; }
       </style>
@@ -65,8 +66,8 @@
       <p style="font-size: smaller">
         <xsl:text>&#169; </xsl:text>
         <xsl:apply-templates select="person" mode="name-only"/>
-        <xsl:text>, </xsl:text>
-        <a href="http://davidashen.net/">http://davidashen.net/</a>
+<!--        <xsl:text>, </xsl:text>
+		<a href="http://davidashen.net/">http://davidashen.net/</a> -->
       </p>
     </body>
   </html>
