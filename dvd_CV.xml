@@ -20,6 +20,20 @@
     </contactinfo>
   </person>
 
+  <objective>
+    IT research and development, programming, or/and teaching
+    computer science and related disciplines in Jerusalem. 
+  </objective>
+
+  <skills>
+    <itemizedlist>
+      <listitem>Algorithm research and design.</listitem>
+      <listitem>Programming (in many languages and environments).</listitem>
+      <listitem>Team leading.</listitem>
+      <listitem>Academic teaching.</listitem>
+    </itemizedlist>
+  </skills>
+
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
@@ -50,6 +64,7 @@
           <listitem>Extended System Programming Laboratory,
           lecturer.</listitem>
         </itemizedlist>
+        Excellence in teaching department award in 2013.
       </experience>
     </employment>
 
