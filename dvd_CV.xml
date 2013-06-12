@@ -64,11 +64,20 @@
           <listitem>Extended System Programming Laboratory,
           lecturer.</listitem>
         </itemizedlist>
-        Excellence in teaching department award in 2013.
+        Excellence in teaching award in 2013.
       </experience>
     </employment>
 
-    <employment since="April, 1999" till="January, 2007">
+    <employment since="January, 2005" till="February, 2006">
+      <company url="http://www.polimetrix.com/">Polimetrix</company>
+      <position>Consultant</position>
+      <experience>Designed and developed an online survey system.
+      The system is capable of conducting extremely high volume online
+      surveys and offers survey designers flexible and powerful tools.
+      </experience>
+    </employment>
+
+    <employment since="April, 1999" till="December, 2004">
       <company url="http://www.renderx.com/">RenderX</company>
       <position>Developer, CTO</position>
     </employment>
