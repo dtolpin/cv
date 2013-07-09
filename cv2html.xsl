@@ -114,7 +114,7 @@
 <xsl:template match="skills" mode="title-mode">Skills</xsl:template>
 <xsl:template match="interests" mode="title-mode">Research Interests</xsl:template>
 <xsl:template match="publications" mode="title-mode">Publications and Patents</xsl:template>
-<xsl:template match="projects" mode="title-mode">Projects</xsl:template>
+<xsl:template match="projects" mode="title-mode">Representative Projects</xsl:template>
 <xsl:template match="employments" mode="title-mode">Employment</xsl:template>
 <xsl:template match="education" mode="title-mode">Education</xsl:template>
 <xsl:template match="miscellanea" mode="title-mode">Miscellanea</xsl:template>
