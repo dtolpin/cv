@@ -34,6 +34,14 @@
     <head>
       <title><xsl:apply-templates select="person" mode="name-only"/></title>
       <style type="text/css">
+		@page {
+		  counter-increment: page;
+		  @bottom-center { 
+			 content: counter(page);
+		  }   
+		  size: A4; 
+		}   
+
 	    body { font: 11pt serif; line-height: 1.44 }
         a { color: <xsl:value-of select="$href-color"/>; }
         p { text-align: justify;
