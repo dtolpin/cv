@@ -14,7 +14,7 @@ XSLT=saxon-xslt
 	     -e 's/\[[0-9][0-9]*\]//g' \
 	     > $@
 
-all: dvd_CV.html dvd_CV.txt
+all: dvd_CV_ac.html dvd_CV_ac.txt dvd_CV_ind.html dvd_CV_ind.txt
 
 clean:
 	rm *.html *.txt

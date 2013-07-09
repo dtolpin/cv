@@ -55,6 +55,7 @@
 
       <xsl:apply-templates select="person"/>
       <xsl:apply-templates select="objective"/>
+      <xsl:apply-templates select="interests"/>
       <xsl:apply-templates select="skills"/>
       <xsl:apply-templates select="education"/>
       <xsl:apply-templates select="employments"/>
@@ -98,6 +99,7 @@
 <xsl:template match="contactinfo |
                      objective |
                      skills |
+                     interests |
                      projects |
 		     publications |
                      employments |
@@ -110,6 +112,7 @@
 <xsl:template match="contactinfo" mode="title-mode">Contact info</xsl:template>
 <xsl:template match="objective" mode="title-mode">Objective</xsl:template>
 <xsl:template match="skills" mode="title-mode">Skills</xsl:template>
+<xsl:template match="interests" mode="title-mode">Research Interests</xsl:template>
 <xsl:template match="publications" mode="title-mode">Publications and Patents</xsl:template>
 <xsl:template match="projects" mode="title-mode">Projects</xsl:template>
 <xsl:template match="employments" mode="title-mode">Employment</xsl:template>
@@ -189,6 +192,30 @@
 
 <xsl:template match="publications" mode="content-mode">
   <ol><xsl:apply-templates/></ol>
+</xsl:template>
+
+<xsl:template match="journalpubs">
+  <li style="list-style-type:none"><h3>Journals</h3>
+   	<ol><xsl:apply-templates/></ol>
+  </li>
+</xsl:template>
+
+<xsl:template match="conferencepubs">
+  <li style="list-style-type:none"><h3>Conferences</h3>
+   	<ol><xsl:apply-templates/></ol>
+  </li>
+</xsl:template>
+
+<xsl:template match="workshoppubs">
+  <li style="list-style-type:none"><h3>Worskhops</h3>
+   	<ol><xsl:apply-templates/></ol>
+  </li>
+</xsl:template>
+
+<xsl:template match="patentpubs">
+  <li style="list-style-type:none"><h3>Patents</h3>
+   	<ol><xsl:apply-templates/></ol>
+  </li>
 </xsl:template>
 
 <xsl:template match="publication">
@@ -288,6 +315,7 @@
   </dt>
   <dd>
     <xsl:apply-templates select="degree"/>
+    <xsl:apply-templates select="award"/>
   </dd>
 </xsl:template>
 
@@ -295,6 +323,10 @@
   <p><xsl:apply-templates/></p>
 </xsl:template>
 
+
+<xsl:template match="award">
+  <p><b><xsl:value-of select="@when"/></b> - <xsl:apply-templates/></p>
+</xsl:template>
 
 <!-- *************************************************************** -->
 <!-- Standard elements                                               -->
