@@ -23,14 +23,14 @@
   <interests>
   	Artificial Intelligence, 
 	rational metareasoning, probabilistic reasoning,
-	decision-making under uncertainty,
+	decision-making under uncertainty, problem-solving search,
 	information retrieval.
   </interests>
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
       <degree>Expected: Ph.D. Thesis title: "Rational Metareasoning in
-      Problem-Solving Search". To be submitted by 1.10.2013.</degree>
+      Problem-Solving Search". Submitted on October 7, 2013.</degree>
 	  <award when="2012">Friedman research excellence award.</award>
     </diploma>
     <diploma since="2007" till="2009">
@@ -48,9 +48,10 @@
   <employments>
     <employment since="2007" till="current">
       <company url="http://www.bgu.ac.il/">Ben Gurion University of the Negev</company>
-      <position>Teaching Assistant, Lecturer</position>
+      <position>Lecturer</position>
       <experience>
         <itemizedlist>
+		  <listitem>System Programming, lecturer.</listitem>
           <listitem>Compiler Construction, teaching assistant.</listitem>
           <listitem>Computer Architecture and System Programming Laboratory,
           laboratory instructor.</listitem>
