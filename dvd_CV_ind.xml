@@ -14,7 +14,7 @@
       <address>
 	<street>PO Box 5164</street>
 	<city>Be'er Sheva</city>
-        <zip>84151</zip>
+        <zip>8415101</zip>
 	<country>Israel</country>
       </address>
     </contactinfo>
@@ -22,7 +22,7 @@
 
   <objective>
     IT research and development, programming, or/and teaching
-    computer science and related disciplines in Jerusalem. 
+    computer science and related disciplines in Israel.
   </objective>
 
   <skills>
@@ -37,8 +37,8 @@
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
-      <degree>expected: Ph.D. Thesis title: "Rational Metareasoning in
-      Problem-Solving Search"</degree>
+      <degree>Ph.D. Thesis title: "Rational Metareasoning in
+      Problem-Solving Search". Awarded: </degree>
     </diploma>
     <diploma since="2007" till="2009">
       <school>Ben Gurion University of the Negev</school>
