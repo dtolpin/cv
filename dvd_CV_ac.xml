@@ -29,8 +29,8 @@
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
-      <degree>Expected: Ph.D. Thesis title: "Rational Metareasoning in
-      Problem-Solving Search". To be submitted by 1.10.2013.</degree>
+      <degree>Ph.D. Thesis title: "Rational Metareasoning in
+      Problem-Solving Search". Awarded 19.03.2014</degree>
 	  <award when="2012">Friedman research excellence award.</award>
     </diploma>
     <diploma since="2007" till="2009">
@@ -48,14 +48,16 @@
   <employments>
     <employment since="2007" till="current">
       <company url="http://www.bgu.ac.il/">Ben Gurion University of the Negev</company>
-      <position>Teaching Assistant, Lecturer</position>
+      <position>Lecturer</position>
       <experience>
         <itemizedlist>
-          <listitem>Compiler Construction, teaching assistant.</listitem>
-          <listitem>Computer Architecture and System Programming Laboratory,
-          laboratory instructor.</listitem>
+		  <listitem>Principles of Programming Languages, lecturer.</listitem>
+		  <listitem>System Programming, lecturer.</listitem>
           <listitem>Extended System Programming Laboratory,
           lecturer.</listitem>
+          <listitem>Computer Architecture and System Programming Laboratory,
+          laboratory instructor.</listitem>
+          <listitem>Compiler Construction, teaching assistant.</listitem>
         </itemizedlist>
         <award when="2013">Excellence in teaching award.</award>
       </experience>
