@@ -314,11 +314,13 @@
   <dt>
     <b>
       <xsl:apply-templates select="school"/>
-      <xsl:text> (</xsl:text>
-      <xsl:value-of select="@since"/>
-      <xsl:text> &#x2013; </xsl:text>
-      <xsl:value-of select="@till"/>
-      <xsl:text>)</xsl:text>
+	  <xsl:if test="@since">
+		  <xsl:text> (</xsl:text>
+		  <xsl:value-of select="@since"/>
+		  <xsl:text> &#x2013; </xsl:text>
+		  <xsl:value-of select="@till"/>
+		  <xsl:text>)</xsl:text>
+	  </xsl:if>
     </b>
   </dt>
   <dd>

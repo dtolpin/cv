@@ -29,8 +29,13 @@
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
+<<<<<<< HEAD
       <degree>Expected: Ph.D. Thesis title: "Rational Metareasoning in
       Problem-Solving Search". Submitted on October 7, 2013.</degree>
+=======
+      <degree>Ph.D. Thesis title: "Rational Metareasoning in
+      Problem-Solving Search". Awarded 19.03.2014</degree>
+>>>>>>> 0cee38b20cb3e926fdc730b66798d931225ed2be
 	  <award when="2012">Friedman research excellence award.</award>
     </diploma>
     <diploma since="2007" till="2009">
@@ -38,8 +43,8 @@
       <degree>Master of Science in Computer Science. Thesis title: "Application of Limited Rationality Approach to Optimization under Uncertainty Problems".</degree>
     </diploma>
 
-    <diploma since="1985" till="1992">
-      <school>Moscow State Technical University (Bauman)</school>
+    <diploma>
+      <school>Moscow State Technical University</school>
       <degree>Master of Science in Applied Mechanics. Thesis title: "A Model for Chaotic Behavior in Deep Drilling".</degree>
     </diploma>
    </education>
@@ -51,12 +56,20 @@
       <position>Lecturer</position>
       <experience>
         <itemizedlist>
+<<<<<<< HEAD
 		  <listitem>System Programming, lecturer.</listitem>
           <listitem>Compiler Construction, teaching assistant.</listitem>
           <listitem>Computer Architecture and System Programming Laboratory,
           laboratory instructor.</listitem>
+=======
+		  <listitem>Principles of Programming Languages, lecturer.</listitem>
+		  <listitem>System Programming, lecturer.</listitem>
+>>>>>>> 0cee38b20cb3e926fdc730b66798d931225ed2be
           <listitem>Extended System Programming Laboratory,
           lecturer.</listitem>
+          <listitem>Computer Architecture and System Programming Laboratory,
+          laboratory instructor.</listitem>
+          <listitem>Compiler Construction, teaching assistant.</listitem>
         </itemizedlist>
         <award when="2013">Excellence in teaching award.</award>
       </experience>

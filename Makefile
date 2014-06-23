@@ -7,6 +7,9 @@ XSLT=saxon-xslt
 .xml.html:
 	${XSLT} $< cv2html.xsl > $@  || ( rm $@; exit 1 )
 
+.html.pdf:
+	prince $<
+
 .html.txt:
 	lynx -dump $< \
 	| sed -e '/^References$$/,$$d' \
@@ -14,7 +17,7 @@ XSLT=saxon-xslt
 	     -e 's/\[[0-9][0-9]*\]//g' \
 	     > $@
 
-all: dvd_CV_ac.html dvd_CV_ac.txt dvd_CV_ind.html dvd_CV_ind.txt
+all: dvd_CV_ac.html dvd_CV_ac.txt dvd_CV_ind.html dvd_CV_ind.txt dvd_CV_ind.pdf dvd_CV_ac.pdf
 
 clean:
 	rm *.html *.txt
