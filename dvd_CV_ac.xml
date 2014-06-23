@@ -29,13 +29,8 @@
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
-<<<<<<< HEAD
-      <degree>Expected: Ph.D. Thesis title: "Rational Metareasoning in
-      Problem-Solving Search". Submitted on October 7, 2013.</degree>
-=======
       <degree>Ph.D. Thesis title: "Rational Metareasoning in
       Problem-Solving Search". Awarded 19.03.2014</degree>
->>>>>>> 0cee38b20cb3e926fdc730b66798d931225ed2be
 	  <award when="2012">Friedman research excellence award.</award>
     </diploma>
     <diploma since="2007" till="2009">
@@ -56,15 +51,8 @@
       <position>Lecturer</position>
       <experience>
         <itemizedlist>
-<<<<<<< HEAD
-		  <listitem>System Programming, lecturer.</listitem>
-          <listitem>Compiler Construction, teaching assistant.</listitem>
-          <listitem>Computer Architecture and System Programming Laboratory,
-          laboratory instructor.</listitem>
-=======
 		  <listitem>Principles of Programming Languages, lecturer.</listitem>
 		  <listitem>System Programming, lecturer.</listitem>
->>>>>>> 0cee38b20cb3e926fdc730b66798d931225ed2be
           <listitem>Extended System Programming Laboratory,
           lecturer.</listitem>
           <listitem>Computer Architecture and System Programming Laboratory,
@@ -105,6 +93,7 @@
 	   <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey. Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
 	</journalpubs>
 	<conferencepubs>
+    <publication>David Tolpin, Oded Betzalel, Ariel Felner, Solomon Eyal Shimony. Rational Deployment of Multiple Heuristics in IDA*. ECAI-2014</publication>
     <publication>David Tolpin, Tal Beja, Solomon Eyal Shimony, Erez
     Karpas, Ariel Felner. Towards Rational Deployment of Multiple
     Heuristics in A*. IJCAI-2013. To appear.</publication>
