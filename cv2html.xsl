@@ -14,7 +14,7 @@
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:output method="html"
-            version="1.0"
+            version="5.0"
             indent="no"
             encoding="ISO-8859-1"/>
 
