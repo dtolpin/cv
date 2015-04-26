@@ -2,6 +2,7 @@
 
 #XSLT=java com.icl.saxon.StyleSheet
 XSLT=saxon-xslt
+SED=sed
 .SUFFIXES: .xml .html .pdf .txt
 
 .xml.html:
@@ -12,7 +13,7 @@ XSLT=saxon-xslt
 
 .html.txt:
 	lynx -dump $< \
-	| sed -e '/^References$$/,$$d' \
+	| ${SED} -e '/^References$$/,$$d' \
 	     -e '/^ *__* *$$/d' \
 	     -e 's/\[[0-9][0-9]*\]//g' \
 	     > $@
