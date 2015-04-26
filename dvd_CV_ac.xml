@@ -126,7 +126,7 @@
  
   <projects>
     <project since="November, 2014" till="current">
-		<subject>Probabilistic Programming System Anglican</subject>
+		<subject><ulink url="https://bitbucket.org/dtolpin/anglican">Probabilistic Programming System Anglican</ulink></subject>
 		<para>
 			<ulink url="https://bitbucket.org/dtolpin/anglican">Anglican</ulink>
 			is a open source, just-in-time-compiled probabilistic
