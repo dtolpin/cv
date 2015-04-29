@@ -21,13 +21,17 @@
   </person>
 
   <objective>
-      Applied researcher &#x2014; a position in a research team where I 
-      conduct theoretical research and apply it to practical innovations.
+      <para>
+          Applied researcher &#x2014; a position in a research team where I 
+          conduct theoretical research and apply it to practical innovations.
+      </para>
   </objective>
 
   <interests>
-  	Artificial Intelligence, probabilistic reasoning, bayesian statistics,
-	decision-making under uncertainty, problem-solving search.
+      <para>
+        Artificial Intelligence, probabilistic reasoning, bayesian statistics,
+        decision-making under uncertainty, problem-solving search.
+    </para>
   </interests>
 
   <education>

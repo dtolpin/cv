@@ -45,9 +45,12 @@
 	    body { font: 11pt serif; line-height: 1.2 }
         a { color: <xsl:value-of select="$href-color"/>; }
         p { text-align: justify;
-            margin-top: 6pt; margin-bottom: 3pt; margin-right: 6pt; }
+            margin-top: 3pt; margin-bottom: 0pt; margin-right: 6pt; }
         li {text-align: justify;
             margin-top: 3pt; margin-bottom: 0pt; margin-right: 6pt; }
+        dt {margin-top: 6pt; margin-bottom: 0pt;}
+        dd {margin-top: 3pt; margin-bottom: 0pt;}
+        h1, h2, h3 {margin-bottom: 6pt; margin-top: 9pt}
         h1 {font-family: "sans serif"; text-align: left;
             color: <xsl:value-of select="$title-color"/>;
             margin-right: 6pt; }
@@ -114,7 +117,7 @@
                      education |
                      miscellanea">
   <h2><xsl:apply-templates select="." mode="title-mode"/></h2>
-  <div style="margin-left: 36"><xsl:apply-templates select="." mode="content-mode"/></div>
+  <div><xsl:apply-templates select="." mode="content-mode"/></div>
 </xsl:template>
 
 <xsl:template match="contactinfo" mode="title-mode">Contact info</xsl:template>
