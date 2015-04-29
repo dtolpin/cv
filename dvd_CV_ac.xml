@@ -22,8 +22,7 @@
 
   <interests>
   	Artificial Intelligence, probabilistic reasoning, bayesian statistics,
-	decision-making under uncertainty, problem-solving search,
-	information retrieval.
+	decision-making under uncertainty, problem-solving search.
   </interests>
   <education>
     <diploma since="2009" till="2013">
@@ -60,15 +59,7 @@
       <company url="http://www.bgu.ac.il/">Ben Gurion University of the Negev</company>
       <position>Lecturer</position>
       <experience>
-        <itemizedlist>
-		  <listitem>Principles of Programming Languages, lecturer.</listitem>
-		  <listitem>System Programming, lecturer.</listitem>
-          <listitem>Extended System Programming Laboratory,
-          lecturer.</listitem>
-          <listitem>Computer Architecture and System Programming Laboratory,
-          laboratory instructor.</listitem>
-          <listitem>Compiler Construction, teaching assistant.</listitem>
-        </itemizedlist>
+          <para>Principles of programming languages, system programming, computer architecture, compiler construction (TA).</para>
         <award when="2013">Excellence in teaching award.</award>
       </experience>
     </employment>
