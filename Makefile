@@ -12,7 +12,7 @@ SED=sed
 	prince $<
 
 .html.txt:
-	lynx -dump $< \
+	lynx -list_inline -dump $< \
 	| ${SED} -e '/^References$$/,$$d' \
 	     -e '/^ *__* *$$/d' \
 	     -e 's/\[[0-9][0-9]*\]//g' \

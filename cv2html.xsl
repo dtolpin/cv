@@ -42,12 +42,12 @@
 		  size: A4; 
 		}   
 
-	    body { font: 11pt serif; line-height: 1.44 }
+	    body { font: 11pt serif; line-height: 1.2 }
         a { color: <xsl:value-of select="$href-color"/>; }
         p { text-align: justify;
-            margin-top: 6pt; margin-bottom: 6pt; margin-right: 6pt; }
+            margin-top: 6pt; margin-bottom: 3pt; margin-right: 6pt; }
         li {text-align: justify;
-            margin-top: 3pt; margin-bottom: 3pt; margin-right: 6pt; }
+            margin-top: 3pt; margin-bottom: 0pt; margin-right: 6pt; }
         h1 {font-family: "sans serif"; text-align: left;
             color: <xsl:value-of select="$title-color"/>;
             margin-right: 6pt; }
@@ -137,9 +137,9 @@
 <xsl:template match="contactinfo" mode="content-mode">
   <table border="0" cellspacing="6" cellpadding="0">
     <xsl:apply-templates select="email"/>
-    <xsl:apply-templates select="address"/>
     <xsl:apply-templates select="phone"/>
     <xsl:apply-templates select="www"/>
+    <xsl:apply-templates select="address"/>
   </table>
 </xsl:template>
 
