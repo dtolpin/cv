@@ -20,10 +20,16 @@
     </contactinfo>
   </person>
 
+  <objective>
+      Applied researcher &#x2014; a position in a research team where I 
+      conduct theoretical research and apply it to practical innovations.
+  </objective>
+
   <interests>
   	Artificial Intelligence, probabilistic reasoning, bayesian statistics,
 	decision-making under uncertainty, problem-solving search.
   </interests>
+
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
