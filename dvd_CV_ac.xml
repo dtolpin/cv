@@ -8,10 +8,10 @@
     <firstname>David</firstname>
     <lastname>Tolpin</lastname>
     <contactinfo>
-	  <email>dvd@offtopia.net</email>
+      <email>dvd@offtopia.net</email>
       <www>http://offtopia.net/</www>
       <phone>+972-58-40-320-60, +44-7435-869-734</phone>
-	  <address>
+      <address>
         <street>PO Box 5164</street>
         <city>Be'er Sheva</city>
             <zip>84151</zip>
@@ -22,13 +22,13 @@
 
   <objective>
       <para>
-		  I do two things well:
-		  <itemizedlist> 
-			  <listitem>write cool programs that work, from design to support;</listitem>
-			  <listitem>conduct cutting-edge AI research, from idea to publication.</listitem>
-		  </itemizedlist>
-		  I like when I can combine both. Hire me in Israel. 
-		  Available anywhere in Israel with 2 month's notice.
+          I do two things well:
+          <itemizedlist> 
+              <listitem>write cool programs that work, from design to support;</listitem>
+              <listitem>conduct cutting-edge AI research, from idea to publication.</listitem>
+          </itemizedlist>
+          I like when I can combine both. Hire me in Israel. 
+          Available anywhere in Israel with 2 month's notice.
       </para>
   </objective>
 
@@ -41,8 +41,8 @@
 
   <skills>
     <itemizedlist>
-      <listitem>Computer science research: reasoning under uncertainty, combinatorial search, machine learning, probabilistic programming.</listitem>
-	  <listitem>Programming (in many languages and environments): <ulink url="https://github.com/dtolpin">my github page</ulink>.</listitem>
+       <listitem>Computer science research: reasoning under uncertainty, combinatorial search, machine learning, probabilistic programming: <ulink url="https://scholar.google.co.uk/citations?user=di9-aTh2Qk0C&amp;hl=en">my google scholar</ulink>.</listitem>
+      <listitem>Programming (in many languages and environments): <ulink url="https://github.com/dtolpin">my github</ulink>.</listitem>
       <listitem>Team leading.</listitem>
       <listitem>Academic teaching.</listitem>
     </itemizedlist>
@@ -52,7 +52,7 @@
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
       <degree>Ph.D. Thesis: "Rational Metareasoning in Problem-Solving Search"</degree>
-	  <award when="2012">Friedman research excellence award.</award>
+      <award when="2012">Friedman research excellence award.</award>
     </diploma>
     <diploma since="2007" till="2009">
       <school>Ben Gurion University of the Negev</school>
@@ -67,17 +67,17 @@
 
 
   <employments>
-	<employment since="2014" till="current">
-	  <company url="http://www.ox.ac.uk/">University of Oxford</company>
-	  <position>Post-Doctoral Researcher</position>
-	  <experience>
-		  <itemizedlist>
-			  <listitem>Probabilistic Programming &#x2014; developed <ulink url="https://bitbucket.org/dtolpin/anglican">Anglican</ulink>, a probabilistic programming system capable of solving real-world inference problems.</listitem>
-			  <listitem>Approximate Inference &#x2014; introduced and implemented a new adaptive Metropolis-Hastings algorithm for probabilistic programming, publication under review.</listitem>
-			  <listitem>Bayesian Statistics &#x2014; <ulink url="http://arxiv.org/abs/1502.07314">applications</ulink> of probabilistic programming to reinforcement learning.</listitem>
-		  </itemizedlist>
+    <employment since="2014" till="current">
+      <company url="http://www.ox.ac.uk/">University of Oxford</company>
+      <position>Post-Doctoral Researcher</position>
+      <experience>
+          <itemizedlist>
+              <listitem>Probabilistic Programming &#x2014; developed <ulink url="https://bitbucket.org/dtolpin/anglican">Anglican</ulink>, a probabilistic programming system capable of solving real-world inference problems.</listitem>
+              <listitem>Approximate Inference &#x2014; introduced and implemented a new adaptive Metropolis-Hastings algorithm for probabilistic programming, publication under review.</listitem>
+              <listitem>Bayesian Statistics &#x2014; <ulink url="http://arxiv.org/abs/1502.07314">applications</ulink> of probabilistic programming to reinforcement learning.</listitem>
+          </itemizedlist>
       </experience>
-	</employment>
+    </employment>
 
     <employment since="2007" till="2014">
       <company url="http://www.bgu.ac.il/">Ben Gurion University of the Negev</company>
@@ -89,26 +89,26 @@
     </employment>
 
     <employment since="January, 2005" till="February, 2006">
-		<company url="http://today.yougov.com/">Polimetrix/YouGov</company>
+        <company url="http://today.yougov.com/">Polimetrix/YouGov</company>
       <position>Consultant</position>
-	  <experience>Joined the startup at an early stage. Designed and developed
-		  the online survey system used by the company, along with the survey
-		  authoring language and tools. The system is capabile of conducting
-		  extremely high volume online surveys and offers survey designers
-		  flexible and powerful tools.
+      <experience>Joined the startup at an early stage. Designed and developed
+          the online survey system used by the company, along with the survey
+          authoring language and tools. The system is capabile of conducting
+          extremely high volume online surveys and offers survey designers
+          flexible and powerful tools.
       </experience>
     </employment>
 
     <employment since="April, 1999" till="December, 2004">
       <company url="http://www.renderx.com/">RenderX</company>
       <position>Developer, CTO</position>
-	  <experience>As a part of the startup from day one, designed one of the
-		  first and still one of the best XSL formatting engines, <ulink
-			  url="http://www.renderx.com/tools/xep.html">XEP</ulink>,
-		  implemented core functionality, and led a team of engineers, writers,
-		  and support staff. Authored several patents related to digital
-		  typography and document processing.
-	  </experience>
+      <experience>As a part of the startup from day one, designed one of the
+          first and still one of the best XSL formatting engines, <ulink
+              url="http://www.renderx.com/tools/xep.html">XEP</ulink>,
+          implemented core functionality, and led a team of engineers, writers,
+          and support staff. Authored several patents related to digital
+          typography and document processing.
+      </experience>
     </employment>
 
     <employment since="April, 1996" till="June, 1998">
@@ -124,12 +124,12 @@
        Measurement Selection for Optimization Under Uncertainty. IEEE
        Transactions on Systems, Man, and Cybernetics, Part B, Part B, 42(2):565–579, 2012</publication>
       <publication>David Tolpin, Solomon Eyal Shimony. Rational Value of Information Estimation for Measurement Selection. Intelligent Decision Technologies, 6(4):297--304, 2012.</publication>
-	   <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey. Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
-	</journalpubs>
-	<conferencepubs>
+       <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey. Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
+    </journalpubs>
+    <conferencepubs>
         <publication>Eli Boyarski; Ariel Felner, Roni Stern, Guni Sharon; David Tolpin, Oded Betzalel, Solomon Eyal Shimony. ICBS: The Improved Conflict-based Search algorithm for Multi-Agent Pathfinding. IJCAI-2015.</publication>
-		<publication>David Tolpin, Frank Wood. Maximum a Posteriori Estimation by Search in Probabilistic Programs. SOCS-15.</publication>
-    <publication>David Tolpin, Oded Betzalel, Ariel Felner, Solomon Eyal Shimony. Rational Deployment of Multiple Heuristics in IDA*. ECAI-2014</publication>
+        <publication>David Tolpin, Frank Wood. Maximum a Posteriori Estimation by Search in Probabilistic Programs. SOCS-15.</publication>
+    <publication>David Tolpin, Oded Betzalel, Ariel Felner, Solomon Eyal Shimony. Ratio/nal Deployment of Multiple Heuristics in IDA*. ECAI-2014</publication>
     <publication>David Tolpin, Tal Beja, Solomon Eyal Shimony, Erez
     Karpas, Ariel Felner. Towards Rational Deployment of Multiple
     Heuristics in A*. IJCAI-2013</publication>
@@ -142,8 +142,8 @@
     Simple Regret. AAAI-2012. pp. 570-576</publication>
     <publication>David Tolpin, Solomon Eyal Shimony. Rational Deployment of CSP Heuristics. IJCAI-2011. pp. 680-686</publication>
     <publication>David Tolpin, Solomon Eyal Shimony. Rational Value of Information Estimation for Measurement Selection. 25th Mini-EURO Conference: URPDM-2010. </publication>
-	  </conferencepubs>
-	  <patentpubs>
+      </conferencepubs>
+      <patentpubs>
    <publication>David Tolpin, 2006. US Pat. 7024621: Methods and systems for rendering electronic data.</publication>
    <publication>David Tolpin, 2005. US Pat. 6971062: Methods for rendering footnotes.</publication>
    </patentpubs>
@@ -151,27 +151,27 @@
  
   <projects>
     <project since="November, 2014" till="current">
-		<subject><ulink url="https://bitbucket.org/dtolpin/anglican">Probabilistic Programming System Anglican</ulink></subject>
-		<para>
-			<ulink url="https://bitbucket.org/dtolpin/anglican">Anglican</ulink>
-			is a open source, just-in-time-compiled probabilistic
-			programming language embedded in Clojure. Anglican is higher-order,
-			Turing-complete, and supports accurate inference in models that
-			make use of complex control flow, including stochastic recursion.
-			It also includes primitives from Bayesian nonparametric statistics.
-		</para>
-		<para>Implemented Anglican, as a language embedded in <ulink
-				url="http://clojure.org/">Clojure</ulink>. Community-maintained
-			<ulink url="https://bitbucket.org/fwood/anglican-examples/">examples</ulink> of probabilistic programs written in Anglican cover a wide range of inference settings.
-		</para>
-	</project>
+        <subject><ulink url="https://bitbucket.org/dtolpin/anglican">Probabilistic Programming System Anglican</ulink></subject>
+        <para>
+            <ulink url="https://bitbucket.org/dtolpin/anglican">Anglican</ulink>
+            is a open source, just-in-time-compiled probabilistic
+            programming language embedded in Clojure. Anglican is higher-order,
+            Turing-complete, and supports accurate inference in models that
+            make use of complex control flow, including stochastic recursion.
+            It also includes primitives from Bayesian nonparametric statistics.
+        </para>
+        <para>Implemented Anglican, as a language embedded in <ulink
+                url="http://clojure.org/">Clojure</ulink>. Community-maintained
+            <ulink url="https://bitbucket.org/fwood/anglican-examples/">examples</ulink> of probabilistic programs written in Anglican cover a wide range of inference settings.
+        </para>
+    </project>
 
     <project since="October, 2003" till="March, 2004">
       <subject url="http://davidashen.net/rnv.html"><emphasis role="bold">RNV</emphasis> — Relax NG validator</subject>
       <para>
       RNV is an implementation of <ulink url="http://relaxng.org/">Relax NG</ulink> Compact Syntax validator in ANSI C.
       </para>
-	  <para>The validator is widely used and is known to be conformant and the fastest implementation of Relax NG. 
+      <para>The validator is widely used and is known to be conformant and the fastest implementation of Relax NG. 
      </para>
     </project>
 
@@ -183,13 +183,13 @@
     </project>
 
     <project since="1994" till="1996">
-		<subject url="http://ftp.davidashen.net/RWWW/"><emphasis role="bold italic">rwww</emphasis> &#x2014; WWW Search Engine with Support for Russian Morphology</subject>
-	  <para>Designed and implemented a non-dictionary stemming algorithm for
-		  the Russian language (Rustem).  Wrote the stemming module in Scheme
-		  and ANSI C.  Modified and improved <ulink
-			  url="http://en.wikipedia.org/wiki/Wide_area_information_server">freeWAIS</ulink>
-		  to support 8-bit encodings and calls to external wordform
-		  normalizers. Wrote a distributed WWW scanning robot.
+        <subject url="http://ftp.davidashen.net/RWWW/"><emphasis role="bold italic">rwww</emphasis> &#x2014; WWW Search Engine with Support for Russian Morphology</subject>
+      <para>Designed and implemented a non-dictionary stemming algorithm for
+          the Russian language (Rustem).  Wrote the stemming module in Scheme
+          and ANSI C.  Modified and improved <ulink
+              url="http://en.wikipedia.org/wiki/Wide_area_information_server">freeWAIS</ulink>
+          to support 8-bit encodings and calls to external wordform
+          normalizers. Wrote a distributed WWW scanning robot.
       </para>
     </project>
   </projects>
