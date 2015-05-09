@@ -39,6 +39,15 @@
     </para>
   </interests>
 
+  <skills>
+    <itemizedlist>
+      <listitem>Computer science research: reasoning under uncertainty, combinatorial search, machine learning, probabilistic programming.</listitem>
+	  <listitem>Programming (in many languages and environments): <ulink url="https://github.com/dtolpin">my github page</ulink>.</listitem>
+      <listitem>Team leading.</listitem>
+      <listitem>Academic teaching.</listitem>
+    </itemizedlist>
+  </skills>
+
   <education>
     <diploma since="2009" till="2013">
       <school>Ben-Gurion University of the Negev</school>
