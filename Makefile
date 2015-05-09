@@ -18,7 +18,7 @@ SED=sed
 	     -e 's/\[[0-9][0-9]*\]//g' \
 	     > $@
 
-all: dvd_CV_ac.html dvd_CV_ac.txt dvd_CV_ind.html dvd_CV_ind.txt dvd_CV_ind.pdf dvd_CV_ac.pdf
+all: dvd_CV_ac.html dvd_CV_ac.txt dvd_CV_ac.pdf
 
 clean:
 	rm *.html *.txt
