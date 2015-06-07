@@ -98,7 +98,38 @@ Employment
 
 Publications and Patents
 
-    1. Journals
+    1. Conferences
+         1. David Tolpin, Jan Willem van de Meent, Brooks Paige, Frank
+            Wood. Output-Sensitive Adaptive Metropolish-Hastings for
+            Probabilistic Programs. ECML-2015.
+         2. David Tolpin, Jan Willem van de Meent, Frank Wood. The
+            Probabilistic Programming System Anglican. ECML-2015 (Demo
+            track).
+         3. Eli Boyarski; Ariel Felner, Roni Stern, Guni Sharon; David
+            Tolpin, Oded Betzalel, Solomon Eyal Shimony. ICBS: The
+            Improved Conflict-based Search algorithm for Multi-Agent
+            Pathfinding. IJCAI-2015.
+         4. David Tolpin, Frank Wood. Maximum a Posteriori Estimation by
+            Search in Probabilistic Programs. SOCS-15.
+         5. David Tolpin, Oded Betzalel, Ariel Felner, Solomon Eyal
+            Shimony. Ratio/nal Deployment of Multiple Heuristics in IDA*.
+            ECAI-2014
+         6. David Tolpin, Tal Beja, Solomon Eyal Shimony, Erez Karpas,
+            Ariel Felner. Towards Rational Deployment of Multiple
+            Heuristics in A*. IJCAI-2013
+         7. Nicholas Hay, Stuart Russell, David Tolpin, Solomon Eyal
+            Shimony. Selecting Computations: Theory and Applications.
+            UAI-2012
+         8. David Tolpin, Solomon Eyal Shimony. VOI-aware MCTS. ECAI-2012.
+            pp. 929-930.
+         9. David Tolpin, Solomon Eyal Shimony. MCTS Based on Simple
+            Regret. AAAI-2012. pp. 570-576
+        10. David Tolpin, Solomon Eyal Shimony. Rational Deployment of CSP
+            Heuristics. IJCAI-2011. pp. 680-686
+        11. David Tolpin, Solomon Eyal Shimony. Rational Value of
+            Information Estimation for Measurement Selection. 25th
+            Mini-EURO Conference: URPDM-2010.
+    2. Journals
          1. David Tolpin, Solomon Eyal Shimony. Semimyopic Measurement
             Selection for Optimization Under Uncertainty. IEEE
             Transactions on Systems, Man, and Cybernetics, Part B, Part B,
@@ -109,31 +140,6 @@ Publications and Patents
          3. David Tolpin, 2007. Probabilistic Networks for Knowledge
             Description. A Survey. Information Processes, Russian Academy
             of Sciences. 2007, Vol 1.
-    2. Conferences
-         1. Eli Boyarski; Ariel Felner, Roni Stern, Guni Sharon; David
-            Tolpin, Oded Betzalel, Solomon Eyal Shimony. ICBS: The
-            Improved Conflict-based Search algorithm for Multi-Agent
-            Pathfinding. IJCAI-2015.
-         2. David Tolpin, Frank Wood. Maximum a Posteriori Estimation by
-            Search in Probabilistic Programs. SOCS-15.
-         3. David Tolpin, Oded Betzalel, Ariel Felner, Solomon Eyal
-            Shimony. Ratio/nal Deployment of Multiple Heuristics in IDA*.
-            ECAI-2014
-         4. David Tolpin, Tal Beja, Solomon Eyal Shimony, Erez Karpas,
-            Ariel Felner. Towards Rational Deployment of Multiple
-            Heuristics in A*. IJCAI-2013
-         5. Nicholas Hay, Stuart Russell, David Tolpin, Solomon Eyal
-            Shimony. Selecting Computations: Theory and Applications.
-            UAI-2012
-         6. David Tolpin, Solomon Eyal Shimony. VOI-aware MCTS. ECAI-2012.
-            pp. 929-930.
-         7. David Tolpin, Solomon Eyal Shimony. MCTS Based on Simple
-            Regret. AAAI-2012. pp. 570-576
-         8. David Tolpin, Solomon Eyal Shimony. Rational Deployment of CSP
-            Heuristics. IJCAI-2011. pp. 680-686
-         9. David Tolpin, Solomon Eyal Shimony. Rational Value of
-            Information Estimation for Measurement Selection. 25th
-            Mini-EURO Conference: URPDM-2010.
     3. Patents
          1. David Tolpin, 2006. US Pat. 7024621: Methods and systems for
             rendering electronic data.
