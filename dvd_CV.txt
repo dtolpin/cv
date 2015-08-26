@@ -50,6 +50,10 @@ Education
 Employment
 
    2014 - current
+          [http://www.paypal.com/]PayPal - Machine Learning Algorithms
+          Specialist.
+
+   2014 - 2015
           [http://www.ox.ac.uk/]University of Oxford - Post-Doctoral
           Researcher.
 
@@ -195,3 +199,5 @@ Representative Projects
 Miscellanea
 
    Languages: Hebrew, English, Yiddish, Armenian, Russian.
+
+   © David Tolpin

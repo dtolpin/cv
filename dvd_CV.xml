@@ -67,7 +67,11 @@
 
 
     <employments>
-        <employment since="2014" till="current">
+		<employment since="2014" till="current">
+			<company url="http://www.paypal.com/">PayPal</company>
+			<position>Machine Learning Algorithms Specialist</position>
+		</employment>
+        <employment since="2014" till="2015">
             <company url="http://www.ox.ac.uk/">University of Oxford</company>
             <position>Post-Doctoral Researcher</position>
             <experience>
