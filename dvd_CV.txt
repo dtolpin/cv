@@ -3,7 +3,7 @@
 Contact info
 
       E-mail: [mailto:dvd@offtopia.net]dvd@offtopia.net
-       Phone: +972-58-40-320-60, +44-7435-869-734
+       Phone: +972-58-40-320-60
    Home page: [http://offtopia.net/]http://offtopia.net/
      Address: PO Box 5164, 84151 Be'er Sheva, Israel
 
@@ -13,8 +13,7 @@ Objective
      * write cool programs that work, from design to support;
      * conduct cutting-edge AI research, from idea to publication.
 
-   I like when I can combine both. Hire me in Israel. Available anywhere
-   in Israel with 2 month's notice.
+   I like when I can combine both.
 
 Research Interests
 
@@ -49,9 +48,9 @@ Education
 
 Employment
 
-   2014 - current
+   2015 - current
           [http://www.paypal.com/]PayPal - Machine Learning Algorithms
-          Specialist.
+          Team Leader.
 
    2014 - 2015
           [http://www.ox.ac.uk/]University of Oxford - Post-Doctoral

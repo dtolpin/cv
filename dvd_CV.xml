@@ -10,7 +10,7 @@
         <contactinfo>
             <email>dvd@offtopia.net</email>
             <www>http://offtopia.net/</www>
-            <phone>+972-58-40-320-60, +44-7435-869-734</phone>
+            <phone>+972-58-40-320-60</phone>
             <address>
                 <street>PO Box 5164</street>
                 <city>Be'er Sheva</city>
@@ -27,8 +27,9 @@
                 <listitem>write cool programs that work, from design to support;</listitem>
                 <listitem>conduct cutting-edge AI research, from idea to publication.</listitem>
             </itemizedlist>
-            I like when I can combine both. Hire me in Israel. 
-            Available anywhere in Israel with 2 month's notice.
+			I like when I can combine both.
+			<!-- Hire me in Israel. 
+			Available anywhere in Israel with 2 month's notice. -->
         </para>
     </objective>
 
@@ -67,9 +68,9 @@
 
 
     <employments>
-		<employment since="2014" till="current">
+		<employment since="2015" till="current">
 			<company url="http://www.paypal.com/">PayPal</company>
-			<position>Machine Learning Algorithms Specialist</position>
+			<position>Machine Learning Algorithms Team Leader</position>
 		</employment>
         <employment since="2014" till="2015">
             <company url="http://www.ox.ac.uk/">University of Oxford</company>
