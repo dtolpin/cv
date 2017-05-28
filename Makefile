@@ -9,7 +9,7 @@ SED=sed
 	${XSLT} $< cv2html.xsl > $@  || ( rm $@; exit 1 )
 
 .html.pdf:
-	prince $<
+	pandoc -o $@ $<
 
 .html.txt:
 	lynx -list_inline -dump $< \

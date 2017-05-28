@@ -10,11 +10,11 @@
         <contactinfo>
             <email>dvd@offtopia.net</email>
             <www>http://offtopia.net/</www>
-            <phone>+972-58-40-320-60</phone>
+            <phone>+972-54-689-1124</phone>
             <address>
                 <street>PO Box 5164</street>
                 <city>Be'er Sheva</city>
-                <zip>84151</zip>
+                <zip>8415101</zip>
                 <country>Israel</country>
             </address>
         </contactinfo>
@@ -28,21 +28,23 @@
                 <listitem>conduct cutting-edge AI research, from idea to publication.</listitem>
             </itemizedlist>
 			I like when I can combine both.
-			<!-- Hire me in Israel. 
-			Available anywhere in Israel with 2 month's notice. -->
+        </para>
+        <para>
+			Hire me.
+			Available in Israel with 2 month's notice.
         </para>
     </objective>
 
     <interests>
         <para>
-            Artificial Intelligence, probabilistic reasoning, bayesian statistics,
+            Artificial Intelligence, deep learning, probabilistic reasoning, bayesian statistics,
             decision-making under uncertainty, problem-solving search.
         </para>
     </interests>
 
     <skills>
         <itemizedlist>
-            <listitem>Computer science research: reasoning under uncertainty, combinatorial search, machine learning, probabilistic programming: <ulink url="https://scholar.google.co.uk/citations?user=di9-aTh2Qk0C&amp;hl=en">my google scholar</ulink>.</listitem>
+            <listitem>Computer science research: reasoning under uncertainty, combinatorial search, heuristic planning, machine learning, probabilistic programming: <ulink url="https://scholar.google.co.uk/citations?user=di9-aTh2Qk0C&amp;hl=en">my google scholar</ulink>.</listitem>
             <listitem>Programming (in many languages and environments): <ulink url="https://github.com/dtolpin">my github</ulink>.</listitem>
             <listitem>Team leading.</listitem>
             <listitem>Academic teaching.</listitem>
@@ -70,7 +72,17 @@
     <employments>
 		<employment since="2015" till="current">
 			<company url="http://www.paypal.com/">PayPal</company>
-			<position>Machine Learning Algorithms Team Leader</position>
+			<position>Research Scientist</position>
+            <experience>
+                <itemizedlist>
+                    <listitem>Designed and implemented anomaly detection algorithms for several domains.</listitem>
+                    <listitem>Built a data science team of 4 data scientists.</listitem>
+                    <listitem>Led scientific collaboration with Ben Gurion University of the Negev.</listitem>
+                    <listitem>Submitted 4 patent applications (more on the way).</listitem>
+                    <listitem>Contributed to 2 open source projects.</listitem>
+                    <listitem>Co-authored 3 academic papers (3 more on the way).</listitem>
+                </itemizedlist>
+            </experience>
 		</employment>
         <employment since="2014" till="2015">
             <company url="http://www.ox.ac.uk/">University of Oxford</company>
@@ -125,6 +137,9 @@
 
     <publications>
         <conferencepubs>
+            <publication>David Tolpin, Jan Willem van de Meent, Hongseok Yang, Frank Wood. Design and Implementation of Probabilistic Programming Language Anglican. IFL 2016</publication>
+            <publication>J. W. van de Meent, Brooks Paige, David Tolpin, Frank Wood. Black-box policy search with probabilistic programs. AISTATS 2016</publication>
+            <publication>David Tolpin. Progressive Temporal Window Widening. AALTD'16 (collocated with ECML PKDD 2016)</publication>
             <publication>David Tolpin, Jan Willem van de Meent, Brooks Paige, Frank Wood. Output-Sensitive Adaptive Metropolish-Hastings for Probabilistic Programs. ECML-2015.</publication>
             <publication>David Tolpin, Jan Willem van de Meent, Frank Wood. Probabilistic Programming in Anglican. ECML-2015 (Demo track).</publication>
             <publication>Eli Boyarski; Ariel Felner, Roni Stern, Guni Sharon; David Tolpin, Oded Betzalel, Solomon Eyal Shimony. ICBS: The Improved Conflict-based Search algorithm for Multi-Agent Pathfinding. IJCAI-2015.</publication>
@@ -151,6 +166,7 @@
             <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey. Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
         </journalpubs>
         <patentpubs>
+            <publication>David Tolpin, 2016. US Pat. 9436667: Techniques for rendering media as layers.</publication>
             <publication>David Tolpin, 2006. US Pat. 7024621: Methods and systems for rendering electronic data.</publication>
             <publication>David Tolpin, 2005. US Pat. 6971062: Methods for rendering footnotes.</publication>
         </patentpubs>
