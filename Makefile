@@ -2,6 +2,8 @@
 
 #XSLT=java com.icl.saxon.StyleSheet
 XSLT=saxon-xslt
+#HTML2PDF=pandoc
+HTML2PDF=prince
 SED=sed
 .SUFFIXES: .xml .html .pdf .txt
 
@@ -9,7 +11,7 @@ SED=sed
 	${XSLT} $< cv2html.xsl > $@  || ( rm $@; exit 1 )
 
 .html.pdf:
-	pandoc -o $@ $<
+	${HTML2PDF} -o $@ $<
 
 .html.txt:
 	lynx -list_inline -dump $< \
