@@ -73,6 +73,7 @@
       <xsl:apply-templates select="publications"/>
       <xsl:apply-templates select="projects"/>
       <xsl:apply-templates select="miscellanea"/>
+      <xsl:apply-templates select="references"/>
 
       <hr/>
       <p style="font-size: smaller">
@@ -112,10 +113,11 @@
                      skills |
                      interests |
                      projects |
-		     publications |
+                     publications |
                      employments |
                      education |
-                     miscellanea">
+                     miscellanea |
+                     references">
   <h2><xsl:apply-templates select="." mode="title-mode"/></h2>
   <div><xsl:apply-templates select="." mode="content-mode"/></div>
 </xsl:template>
@@ -129,6 +131,7 @@
 <xsl:template match="employments" mode="title-mode">Employment</xsl:template>
 <xsl:template match="education" mode="title-mode">Education</xsl:template>
 <xsl:template match="miscellanea" mode="title-mode">Miscellanea</xsl:template>
+<xsl:template match="references" mode="title-mode">References</xsl:template>
 
 <xsl:template match="*" mode="content-mode">
   <xsl:apply-templates/>
