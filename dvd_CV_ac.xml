@@ -46,7 +46,7 @@
   <employments>
     <employment since="2017" till="now">
         <company url="http://intensix.com/">Intensix</company>
-        <position>Computer Scientist</position>
+        <position>Computer scientist</position>
         <experience>
             <para>Bayesian inference and deep learning on 
                 time-space models for medical care.
@@ -55,7 +55,7 @@
     </employment>
     <employment since="2015" till="2017">
         <company url="http://paypal.com/">PayPal</company>
-        <position>Computer Scientist</position>
+        <position>Computer scientist</position>
         <experience>
             <para>Anomaly detection in temporal streams and large
                 populations, using a wide range of methods and
@@ -200,6 +200,7 @@
       <itemizedlist>
           <listitem>Ariel Felner, professor, Ben-Gurion University of the Negev, http://www.ise.bgu.ac.il/engineering/PersonalWebSite1main.aspx?id=jsrtrVrd, felner@bgu.ac.il</listitem>
           <listitem>Jan-Willem van de Meent, assistant professor, North-Eastern University, http://www.ccs.neu.edu/home/jwvdm/, jvandemeent@northeastern.edu</listitem>
+          <listitem>Eyal Shimony, professor, Ben-Gurion University of the Negev, http://www.cs.bgu.ac.il/~shimony/, shimony@cs.bgu.ac.il</listitem>
           <listitem>Frank Wood, associate professor, University of Oxford, http://robots.ox.ac.uk/~fwood/, fwood@robots.ox.ac.uk</listitem>
           <listitem>Hongseok Yang, professor, University of Oxford, https://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html, Hongseok.Yang@cs.ox.ac.uk</listitem>
       </itemizedlist>
