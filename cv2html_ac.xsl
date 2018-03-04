@@ -66,12 +66,14 @@
 
       <xsl:apply-templates select="person"/>
       <xsl:apply-templates select="objective"/>
+      <xsl:apply-templates select="interests"/>
       <xsl:apply-templates select="skills"/>
-      <xsl:apply-templates select="employments"/>
       <xsl:apply-templates select="education"/>
-      <xsl:apply-templates select="projects"/>
+      <xsl:apply-templates select="employments"/>
       <xsl:apply-templates select="publications"/>
+      <xsl:apply-templates select="projects"/>
       <xsl:apply-templates select="miscellanea"/>
+      <xsl:apply-templates select="references"/>
 
       <hr/>
       <p style="font-size: smaller">

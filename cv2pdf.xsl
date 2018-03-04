@@ -120,9 +120,10 @@
         <xsl:apply-templates select="person"/>
         <xsl:apply-templates select="objective"/>
         <xsl:apply-templates select="skills"/>
-        <xsl:apply-templates select="projects"/>
         <xsl:apply-templates select="employments"/>
         <xsl:apply-templates select="education"/>
+        <xsl:apply-templates select="projects"/>
+        <xsl:apply-templates select="publications"/>
         <xsl:apply-templates select="miscellanea"/>
       </fo:flow>
     </fo:page-sequence>

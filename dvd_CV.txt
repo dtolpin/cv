@@ -14,37 +14,16 @@ Objective
 
    I like when I can combine both.
 
-Research Interests
-
-   Artificial Intelligence, deep learning, probabilistic reasoning,
-   bayesian statistics, decision-making under uncertainty, problem-solving
-   search.
-
 Skills
 
-     * Computer science research: reasoning under uncertainty, heuristic
-       planning, machine learning, probabilistic programming:
+     * Applied research: reasoning under uncertainty, heuristic planning,
+       machine learning, probabilistic programming:
        [https://scholar.google.co.uk/citations?user=di9-aTh2Qk0C&hl=en]my
        google scholar.
      * Programming (in many languages and environments):
        [https://github.com/dtolpin]my github.
      * Team leading.
      * Academic teaching.
-
-Education
-
-   Ben-Gurion University of the Negev (2009 – 2013)
-          Ph.D. Thesis: "Rational Metareasoning in Problem-Solving Search"
-
-          2012 - Friedman research excellence award.
-
-   Ben Gurion University of the Negev (2007 – 2009)
-          M.Sc. in Computer Science. Thesis: "Limited Rationality Approach
-          to Optimization under Uncertainty".
-
-   Moscow State Technical University
-          M.Sc. in Applied Mechanics. Thesis: "A Model for Chaotic
-          Behavior in Deep Drilling".
 
 Employment
 
@@ -121,6 +100,68 @@ Employment
           [http://www.irex.org/]IREX – Coordinator for US–Armenia Internet
           Access and Training Program.
 
+Education
+
+   Ben-Gurion University of the Negev (2009 – 2013)
+          Ph.D. Thesis: "Rational Metareasoning in Problem-Solving Search"
+
+          2012 - Friedman research excellence award.
+
+   Ben Gurion University of the Negev (2007 – 2009)
+          M.Sc. in Computer Science. Thesis: "Limited Rationality Approach
+          to Optimization under Uncertainty".
+
+   Moscow State Technical University
+          M.Sc. in Applied Mechanics. Thesis: "A Model for Chaotic
+          Behavior in Deep Drilling".
+
+Representative Projects
+
+   [https://bitbucket.org/dtolpin/anglican]Probabilistic Programming
+          System Anglican
+
+   November, 2014 – current
+          [https://bitbucket.org/dtolpin/anglican]Anglican is an open
+          source, just-in-time-compiled probabilistic programming language
+          embedded in Clojure. Anglican is higher-order, Turing-complete,
+          and supports accurate inference in models that make use of
+          complex control flow, including stochastic recursion. It also
+          includes primitives from Bayesian nonparametric statistics.
+
+          Implemented Anglican, as a language embedded in
+          [http://clojure.org/]Clojure. Community-maintained
+          [https://bitbucket.org/fwood/anglican-examples/]examples of
+          probabilistic programs written in Anglican cover a wide range of
+          inference settings.
+
+   [http://davidashen.net/rnv.html]RNV — Relax NG validator
+   October, 2003 – March, 2004
+          RNV is an implementation of [http://relaxng.org/]Relax NG
+          Compact Syntax validator in ANSI C.
+
+          The validator is widely used and is known to be conformant and
+          the fastest implementation of Relax NG.
+
+   [http://www.renderx.com/tools/xep.html]XEP — XSL Formatting Objects
+          Rendering Engine
+
+   April, 1999 – July, 2003
+          Designed and led a team of engineers to implement the first
+          commercially available and still one of the best implementations
+          of [http://www.w3.org/TR/xsl]XSL Formatting Objects. Wrote core
+          modules of the formatting engine.
+
+   [http://ftp.davidashen.net/RWWW/]rwww — WWW Search Engine with Support
+          for Russian Morphology
+
+   1994 – 1996
+          Designed and implemented a non-dictionary stemming algorithm for
+          the Russian language (Rustem). Wrote the stemming module in
+          Scheme and ANSI C. Modified and improved
+          [http://en.wikipedia.org/wiki/Wide_area_information_server]freeW
+          AIS to support 8-bit encodings and calls to external wordform
+          normalizers. Wrote a distributed WWW scanning robot.
+
 Publications and Patents
 
     1. Conferences
@@ -179,53 +220,6 @@ Publications and Patents
             rendering electronic data.
          3. David Tolpin, 2005. US Pat. 6971062: Methods for rendering
             footnotes.
-
-Representative Projects
-
-   [https://bitbucket.org/dtolpin/anglican]Probabilistic Programming
-          System Anglican
-
-   November, 2014 – current
-          [https://bitbucket.org/dtolpin/anglican]Anglican is an open
-          source, just-in-time-compiled probabilistic programming language
-          embedded in Clojure. Anglican is higher-order, Turing-complete,
-          and supports accurate inference in models that make use of
-          complex control flow, including stochastic recursion. It also
-          includes primitives from Bayesian nonparametric statistics.
-
-          Implemented Anglican, as a language embedded in
-          [http://clojure.org/]Clojure. Community-maintained
-          [https://bitbucket.org/fwood/anglican-examples/]examples of
-          probabilistic programs written in Anglican cover a wide range of
-          inference settings.
-
-   [http://davidashen.net/rnv.html]RNV — Relax NG validator
-   October, 2003 – March, 2004
-          RNV is an implementation of [http://relaxng.org/]Relax NG
-          Compact Syntax validator in ANSI C.
-
-          The validator is widely used and is known to be conformant and
-          the fastest implementation of Relax NG.
-
-   [http://www.renderx.com/tools/xep.html]XEP — XSL Formatting Objects
-          Rendering Engine
-
-   April, 1999 – July, 2003
-          Designed and led a team of engineers to implement the first
-          commercially available and still one of the best implementations
-          of [http://www.w3.org/TR/xsl]XSL Formatting Objects. Wrote core
-          modules of the formatting engine.
-
-   [http://ftp.davidashen.net/RWWW/]rwww — WWW Search Engine with Support
-          for Russian Morphology
-
-   1994 – 1996
-          Designed and implemented a non-dictionary stemming algorithm for
-          the Russian language (Rustem). Wrote the stemming module in
-          Scheme and ANSI C. Modified and improved
-          [http://en.wikipedia.org/wiki/Wide_area_information_server]freeW
-          AIS to support 8-bit encodings and calls to external wordform
-          normalizers. Wrote a distributed WWW scanning robot.
 
 Miscellanea
 
