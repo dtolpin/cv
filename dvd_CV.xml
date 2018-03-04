@@ -8,15 +8,9 @@
         <firstname>David</firstname>
         <lastname>Tolpin</lastname>
         <contactinfo>
-            <email>dvd@offtopia.net</email>
+            <email>david.tolpin@gmail.com</email>
             <www>http://offtopia.net/</www>
             <phone>+972-54-689-1124</phone>
-            <address>
-                <street>PO Box 5164</street>
-                <city>Be'er Sheva</city>
-                <zip>8415101</zip>
-                <country>Israel</country>
-            </address>
         </contactinfo>
     </person>
 
@@ -29,10 +23,6 @@
             </itemizedlist>
 			I like when I can combine both.
         </para>
-        <para>
-			Hire me.
-			Available in Israel with 2 month's notice.
-        </para>
     </objective>
 
     <interests>
@@ -44,7 +34,7 @@
 
     <skills>
         <itemizedlist>
-            <listitem>Computer science research: reasoning under uncertainty, combinatorial search, heuristic planning, machine learning, probabilistic programming: <ulink url="https://scholar.google.co.uk/citations?user=di9-aTh2Qk0C&amp;hl=en">my google scholar</ulink>.</listitem>
+            <listitem>Computer science research: reasoning under uncertainty, heuristic planning, machine learning, probabilistic programming: <ulink url="https://scholar.google.co.uk/citations?user=di9-aTh2Qk0C&amp;hl=en">my google scholar</ulink>.</listitem>
             <listitem>Programming (in many languages and environments): <ulink url="https://github.com/dtolpin">my github</ulink>.</listitem>
             <listitem>Team leading.</listitem>
             <listitem>Academic teaching.</listitem>
@@ -70,17 +60,38 @@
 
 
     <employments>
-		<employment since="2015" till="current">
-			<company url="http://www.paypal.com/">PayPal</company>
-			<position>Research Scientist</position>
+        <employment since="2017" till="now">
+            <company url="http://clewmed.com/">CLEW Medical (Intensix)</company>
+            <position>Computer scientist</position>
+            <experience>
+                <para>Bayesian inference and deep learning on 
+                    time-space models for early sign deterioration prediction in
+                    intensive care.
+                </para>
+                <itemizedlist>
+                    <listitem>Introduced a new scoring scheme of deterioration predictions, for
+                        evaluation and training.
+                    </listitem>
+                    <listitem>Designed and implemented a novel algorithm for
+                        changepoint detection in multivariate vital sign time series.
+                    </listitem>
+                    <listitem>Led adoption of deep learning tools and techniques for next
+                        generation of deterioration prediction algorithms.
+                    </listitem>
+                </itemizedlist>
+            </experience>
+        </employment>
+        <employment since="2015" till="2017">
+            <company url="http://paypal.com/">PayPal</company>
+            <position>Research scientist</position>
             <experience>
                 <itemizedlist>
                     <listitem>Designed and implemented anomaly detection algorithms for several domains.</listitem>
                     <listitem>Built a data science team of 4 data scientists.</listitem>
                     <listitem>Led scientific collaboration with Ben Gurion University of the Negev.</listitem>
-                    <listitem>Submitted 4 patent applications (more on the way).</listitem>
+                    <listitem>Submitted 9 patent applications.</listitem>
                     <listitem>Contributed to 2 open source projects.</listitem>
-                    <listitem>Co-authored 3 academic papers (3 more on the way).</listitem>
+                    <listitem>Co-authored 4 academic papers.</listitem>
                 </itemizedlist>
             </experience>
 		</employment>

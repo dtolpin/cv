@@ -10,12 +10,6 @@
     <contactinfo>
       <email>david.tolpin@gmail.com</email>
       <phone mode="mobile">+972-54-689-1124</phone>
-      <address>
-    <street>PO Box 5164</street>
-    <city>Be'er Sheva</city>
-        <zip>84151</zip>
-    <country>Israel</country>
-      </address>
     </contactinfo>
   </person>
 
@@ -45,7 +39,7 @@
 
   <employments>
     <employment since="2017" till="now">
-        <company url="http://intensix.com/">Intensix</company>
+        <company url="http://intensix.com/">CLEW Medical (Intensix)</company>
         <position>Computer scientist</position>
         <experience>
             <para>Bayesian inference and deep learning on 
