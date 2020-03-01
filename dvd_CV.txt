@@ -27,8 +27,8 @@ Skills
 
 Employment
 
-   2017 – now
-          [http://clewmed.com/]CLEW Medical (Intensix) – Computer
+   2017 - now
+          [http://clewmed.com/]CLEW Medical (Intensix) - Computer
           scientist.
 
           Bayesian inference and deep learning on time-space models for
@@ -41,8 +41,8 @@ Employment
           + Led adoption of deep learning tools and techniques for next
             generation of deterioration prediction algorithms.
 
-   2015 – 2017
-          [http://paypal.com/]PayPal – Research scientist.
+   2015 - 2017
+          [http://paypal.com/]PayPal - Research scientist.
 
           + Designed and implemented anomaly detection algorithms for
             several domains.
@@ -53,23 +53,23 @@ Employment
           + Contributed to 2 open source projects.
           + Co-authored 4 academic papers.
 
-   2014 – 2015
-          [http://www.ox.ac.uk/]University of Oxford – Post-Doctoral
+   2014 - 2015
+          [http://www.ox.ac.uk/]University of Oxford - Post-Doctoral
           Researcher.
 
-          + Probabilistic Programming — developed
+          + Probabilistic Programming -- developed
             [https://bitbucket.org/dtolpin/anglican]Anglican, a
             probabilistic programming system capable of solving real-world
             inference problems.
-          + Approximate Inference — introduced and implemented a new
+          + Approximate Inference -- introduced and implemented a new
             adaptive Metropolis-Hastings algorithm for probabilistic
             programming, publication under review.
-          + Bayesian Statistics —
+          + Bayesian Statistics --
             [http://arxiv.org/abs/1502.07314]applications of probabilistic
             programming to reinforcement learning.
 
-   2007 – 2014
-          [http://www.bgu.ac.il/]Ben Gurion University of the Negev –
+   2007 - 2014
+          [http://www.bgu.ac.il/]Ben Gurion University of the Negev -
           Lecturer.
 
           Principles of programming languages, system programming,
@@ -77,8 +77,8 @@ Employment
 
           2013 - Excellence in teaching award.
 
-   January, 2005 – February, 2006
-          [http://today.yougov.com/]Polimetrix/YouGov – Consultant.
+   January, 2005 - February, 2006
+          [http://today.yougov.com/]Polimetrix/YouGov - Consultant.
 
           Joined the startup at an early stage. Designed and developed the
           online survey system used by the company, along with the survey
@@ -86,8 +86,8 @@ Employment
           conducting extremely high volume online surveys and offers
           survey designers flexible and powerful tools.
 
-   April, 1999 – December, 2004
-          [http://www.renderx.com/]RenderX – Developer, CTO.
+   April, 1999 - December, 2004
+          [http://www.renderx.com/]RenderX - Developer, CTO.
 
           As a part of the startup from day one, designed one of the first
           and still one of the best XSL formatting engines,
@@ -96,18 +96,18 @@ Employment
           staff. Authored several patents related to digital typography
           and document processing.
 
-   April, 1996 – June, 1998
-          [http://www.irex.org/]IREX – Coordinator for US–Armenia Internet
+   April, 1996 - June, 1998
+          [http://www.irex.org/]IREX - Coordinator for US-Armenia Internet
           Access and Training Program.
 
 Education
 
-   Ben-Gurion University of the Negev (2009 – 2013)
+   Ben-Gurion University of the Negev (2009 - 2013)
           Ph.D. Thesis: "Rational Metareasoning in Problem-Solving Search"
 
           2012 - Friedman research excellence award.
 
-   Ben Gurion University of the Negev (2007 – 2009)
+   Ben Gurion University of the Negev (2007 - 2009)
           M.Sc. in Computer Science. Thesis: "Limited Rationality Approach
           to Optimization under Uncertainty".
 
@@ -120,7 +120,7 @@ Representative Projects
    [https://bitbucket.org/dtolpin/anglican]Probabilistic Programming
           System Anglican
 
-   November, 2014 – current
+   November, 2014 - current
           [https://bitbucket.org/dtolpin/anglican]Anglican is an open
           source, just-in-time-compiled probabilistic programming language
           embedded in Clojure. Anglican is higher-order, Turing-complete,
@@ -134,27 +134,27 @@ Representative Projects
           probabilistic programs written in Anglican cover a wide range of
           inference settings.
 
-   [http://davidashen.net/rnv.html]RNV — Relax NG validator
-   October, 2003 – March, 2004
+   [http://davidashen.net/rnv.html]RNV -- Relax NG validator
+   October, 2003 - March, 2004
           RNV is an implementation of [http://relaxng.org/]Relax NG
           Compact Syntax validator in ANSI C.
 
           The validator is widely used and is known to be conformant and
           the fastest implementation of Relax NG.
 
-   [http://www.renderx.com/tools/xep.html]XEP — XSL Formatting Objects
+   [http://www.renderx.com/tools/xep.html]XEP -- XSL Formatting Objects
           Rendering Engine
 
-   April, 1999 – July, 2003
+   April, 1999 - July, 2003
           Designed and led a team of engineers to implement the first
           commercially available and still one of the best implementations
           of [http://www.w3.org/TR/xsl]XSL Formatting Objects. Wrote core
           modules of the formatting engine.
 
-   [http://ftp.davidashen.net/RWWW/]rwww — WWW Search Engine with Support
+   [http://ftp.davidashen.net/RWWW/]rwww -- WWW Search Engine with Support
           for Russian Morphology
 
-   1994 – 1996
+   1994 - 1996
           Designed and implemented a non-dictionary stemming algorithm for
           the Russian language (Rustem). Wrote the stemming module in
           Scheme and ANSI C. Modified and improved
@@ -206,7 +206,7 @@ Publications and Patents
          1. David Tolpin, Solomon Eyal Shimony. Semimyopic Measurement
             Selection for Optimization Under Uncertainty. IEEE
             Transactions on Systems, Man, and Cybernetics, Part B, Part B,
-            42(2):565–579, 2012
+            42(2):565-579, 2012
          2. David Tolpin, Solomon Eyal Shimony. Rational Value of
             Information Estimation for Measurement Selection. Intelligent
             Decision Technologies, 6(4):297--304, 2012.
@@ -225,4 +225,3 @@ Miscellanea
 
    Languages: Hebrew, English, Yiddish, Armenian, Russian.
 
-   © David Tolpin

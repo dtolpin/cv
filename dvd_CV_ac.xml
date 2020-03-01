@@ -2,13 +2,13 @@
 
 <?xml-stylesheet type="text/xsl" href="cv2html.xsl"?>
 
-<resume keywords="Metareasoning, Artificial Intelligence, Search, Digital Typography">
+<resume keywords="Probabilistic programming, Bayesian statistics, ragtional metareasoning">
 
   <person>
     <firstname>David</firstname>
     <lastname>Tolpin</lastname>
     <contactinfo>
-      <email>david.tolpin@gmail.com</email>
+      <email>tolpin@cs.bgu.ac.il</email>
       <phone mode="mobile">+972-54-689-1124</phone>
     </contactinfo>
   </person>
@@ -38,7 +38,26 @@
   </education>
 
   <employments>
-    <employment since="2017" till="now">
+    <employment since="2019" till="now">
+        <company url="http://www.cs.bgu.ac.il/">Ben Gurion University of the Negev</company>
+        <position>Assistant professor, Department of Computer Science</position>
+        <experience>
+            <para>Research in probabilistic programming and Bayesian 
+                statistical modelling and inference.
+            </para>
+        </experience>
+    </employment>
+    <employment since="2018" till="2020">
+        <company url="http://pubplus.com/">PUB+</company>
+        <position>Head of data science</position>
+        <experience>
+                <para>Introducing algorithmic forecasting and decision making
+                    into social media acquisition and revenue attribution for
+                    online publishers.
+            </para>
+        </experience>
+    </employment>
+    <employment since="2017" till="2018">
         <company url="http://intensix.com/">CLEW Medical (Intensix)</company>
         <position>Computer scientist</position>
         <experience>
@@ -116,6 +135,10 @@
        <publication>David Tolpin, 2007. Probabilistic Networks for Knowledge Description. A Survey. Information Processes, Russian Academy of Sciences. 2007, Vol 1.</publication>
     </journalpubs>
     <conferencepubs>
+            <publication>David Tolpin. 2019. Deployable probabilistic programming. In Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! 2019). Association for Computing Machinery, New York, NY, USA, 1–16.</publication>
+        <publication>David Tolpin, 2019. Population anomaly detection through deep gaussianization. ACM SAC 2019</publication>
+        <publication>David Tolpin, 2018. Server-side probabilistic programming. POPL LAFI 2018</publication>
+        <publication>David Tolpin, 2018. A small program can be a big challenge. PROBPROG 2018</publication>
         <publication>Dymshits, M., Myara, B. and Tolpin, D., 2017. Process Monitoring on Sequences of System Call Count Vectors. ICCST 2017</publication>
         <publication>David Tolpin, Jan Willem van de Meent, Hongseok Yang, Frank Wood. Design and Implementation of Probabilistic Programming Language Anglican. IFL 2016</publication>
         <publication>J. W. van de Meent, Brooks Paige, David Tolpin, Frank Wood. Black-box policy search with probabilistic programs. AISTATS 2016</publication>
@@ -138,6 +161,9 @@
         <publication>David Tolpin, Solomon Eyal Shimony. Rational Value of Information Estimation for Measurement Selection. 25th Mini-EURO Conference: URPDM-2010. </publication>
       </conferencepubs>
       <patentpubs>
+         <publication>David Tolpin, Michael Dymshits, 2019. US Patent 10,452,8447: System call vectorization.</publication>
+         <publication>OM Lahav, RC Johnson, D Tolpin, 2019. US Patent 10,445,163: Advanced computer system drift detection.</publication>
+         <publication>David Tolpin, Shlomi Boutnaru, Yuri Shafet, 2018. US Patent 10152591: Protecting against malware variants using reconstructed code of malware.</publication>
         <publication>David Tolpin, 2016. US Patent 9436667: Techniques for rendering media as layers.</publication>
         <publication>David Tolpin, 2006. US Patent 7024621: Methods and systems for rendering electronic data.</publication>
         <publication>David Tolpin, 2005. US Patent 6971062: Methods for rendering footnotes.</publication>
@@ -145,7 +171,12 @@
   </publications>
  
   <projects>
-    <project since="October, 2014" till="Now">
+    <project since="October, 2018" till="Now">
+        <subject url="http://infergo.org/">
+            <emphasis role="bold">Infergo</emphasis> — probabilistic programming facility for the Go programming language</subject>
+                <para>Infergo is a probabilistic programming facility for the Go language. infergo allows to write probabilistic models in almost unrestricted Go and relies on automatic differentiation for optimization and inference. </para>
+    </project>
+    <project since="October, 2014" till="October, 2018">
         <subject url="http://anglican.ml/"><emphasis role="bold">Anglican</emphasis> — Probabilistic Programming System</subject>
         <para>Anglican is a probabilistic programming system implemented in and integrated with Clojure. Implemented the current
             version of the system in from scratch.
@@ -190,6 +221,7 @@
     <para>Languages: Hebrew, English, Yiddish, Armenian, Russian.</para>
   </miscellanea>
 
+  <!--
   <references>
       <itemizedlist>
           <listitem>Ariel Felner, professor, Ben-Gurion University of the Negev, http://www.ise.bgu.ac.il/engineering/PersonalWebSite1main.aspx?id=jsrtrVrd, felner@bgu.ac.il</listitem>
@@ -199,4 +231,5 @@
           <listitem>Hongseok Yang, professor, University of Oxford, https://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html, Hongseok.Yang@cs.ox.ac.uk</listitem>
       </itemizedlist>
   </references>
+  -->
 </resume>
