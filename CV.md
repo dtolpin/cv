@@ -1,8 +1,9 @@
-![](dvd.jpg){width="30%"}\
+![](dvd.jpg){width="28%" text-align="right"}\
 
 # David Tolpin
 
-[david.tolpin@gmail.com](mailto:david.tolpin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/david-tolpin-1a45736/) · [BitBucket](https://bitbucket.org/dtolpin/) · [Google Scholar](https://scholar.google.com/citations?user=pCIpAvIAAAAJ&hl=en) · [offtopia.net](https://offtopia.net)
+[LinkedIn](https://www.linkedin.com/in/david-tolpin-1a45736/) · [GitHub](https://github.com/dtolpin) · [BitBucket](https://bitbucket.org/dtolpin/) · [Google Scholar](https://scholar.google.com/citations?user=pCIpAvIAAAAJ&hl=en) · [offtopia.net](https://offtopia.net)  
+[david.tolpin@gmail.com](mailto:david.tolpin@gmail.com) · +972-54-689-1124
 
 ## Hands-on Scientist / Applied ML Researcher
 
