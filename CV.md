@@ -7,16 +7,26 @@
 
 ## Hands-on Scientist / Applied ML Researcher
 
-Applied machine learning researcher and computer scientist with experience spanning industry R&D, production systems, probabilistic modeling, human motion, computer vision, time-series modeling, anomaly detection, planning, and probabilistic programming. Strong preference for roles that combine research-level problem formulation with direct implementation, experimentation, deployment, and collaboration with engineering teams.
+Applied machine learning researcher and computer scientist with experience spanning industry R&D, production systems,
+probabilistic modeling, human motion, computer vision, time-series modeling, anomaly detection, planning, and
+probabilistic programming. Strong preference for roles that combine research-level problem formulation with direct
+implementation, experimentation, deployment, and collaboration with engineering teams.
 
-Recent work focuses on computer vision and graphics algorithms, 3D human motion, SMPL pose modeling, neural inverse kinematics, pose priors, differentiable 3D modeling, and coding automation harnesses. Earlier work includes forecasting and decision-making systems for online advertising, deterioration prediction in clinical time series, cybersecurity anomaly detection, probabilistic programming, Bayesian inference, reinforcement learning, and heuristic search. 
+Recent work focuses on computer vision and graphics algorithms, 3D human motion, SMPL pose modeling, neural inverse kinematics,
+pose priors, differentiable 3D modeling, and coding automation harnesses. Earlier work includes forecasting and decision-making
+systems for online advertising, deterioration prediction in clinical time series, cybersecurity anomaly detection,
+probabilistic programming, Bayesian inference, reinforcement learning, and heuristic search. 
 
 ## Technical Focus
 
-**Machine learning and statistics:** Bayesian modeling, probabilistic inference, density estimation, normalizing flows, time-series modeling, anomaly detection, forecasting, reinforcement learning, planning under uncertainty.
-**Motion / vision / graphics:** markerless motion capture, SMPL human models, pose priors, inverse kinematics, differentiable 3D modeling, computer vision and graphics algorithms.
-**Systems and implementation:** production research code, distributed data processing, Go, Python, Julia, Clojure, Scala, Unix tooling, reproducible CLI workflows.
-**Research practice:** problem formulation, experiment design, papers, patents, algorithm design, scientific collaboration, mentoring and technical leadership.
+**Machine learning and statistics:** Bayesian modeling, probabilistic inference, density estimation, normalizing flows,
+time-series modeling, anomaly detection, forecasting, reinforcement learning, planning under uncertainty.
+**Motion / vision / graphics:** markerless motion capture, SMPL human models, pose priors, inverse kinematics, differentiable 3D
+modeling, computer vision and graphics algorithms.
+**Systems and implementation:** production research code, distributed data processing, Go, Python, Julia, Clojure, Scala,
+Unix tooling, reproducible CLI workflows.
+**Research practice:** problem formulation, experiment design, papers, patents, algorithm design, scientific collaboration,
+mentoring and technical leadership.
 
 ---
 
@@ -24,7 +34,7 @@ Recent work focuses on computer vision and graphics algorithms, 3D human motion,
 
 ### 2K — Computer Scientist
 
-**Tel Aviv-Yafo · September 2025 – Present**
+**September 2025 – Present**
 
 Designing computer vision and graphics algorithms and automating coding harnesses. 
 
@@ -34,7 +44,7 @@ Selected work:
 * Built automation harnesses for coding and experimentation workflows.
 * Worked on practical ML/graphics problems at the boundary between research prototypes and engineering tools.
 
-### YOOM — Algorithm Engineer
+### YOOM (acquired by 2K) — Algorithm Engineer
 
 **May 2023 – September 2025**
 
@@ -49,20 +59,20 @@ Selected work:
 
 ### Ben-Gurion University of the Negev — Senior Lecturer / Assistant Professor
 
-**Beersheba · October 2019 – October 2025**
+**October 2019 – October 2025**
 
 Research and teaching in probabilistic programming, Bayesian statistical modeling, AI planning, and reinforcement learning. 
 
 Selected work:
 
 * Conducted research in probabilistic programming, Bayesian inference, planning, and reinforcement learning.
-* Published work on planning as policy inference, Bayesian inference reuse in multilevel models, probabilistic programs as action descriptions, stochastic conditioning, and related topics.  
+* Published work on planning as policy inference, Bayesian inference reuse in multilevel models, probabilistic programs as action descriptions, stochastic conditioning, and related topics.
 * Supervised and collaborated on research bridging probabilistic modeling, AI planning, and implementable inference systems.
-* Taught core computer science and systems courses in earlier BGU appointments, including programming languages, system programming, computer architecture labs, and compiler construction. 
+* Taught courses "Mathematical foundations of computer science" and "Applied Bayesian data analysis".
 
 ### Wild Biotech — Machine Learning Scientist
 
-**Israel · November 2022 – April 2023**
+**November 2022 – April 2023**
 
 Designed and implemented ML and inference methods for computational biology. 
 
@@ -77,20 +87,28 @@ Selected work:
 
 **May 2018 – September 2022**
 
-Led data science and statistical modeling for advertising campaign optimization, revenue attribution, and forecasting. 
+Led data science and statistical modeling for advertising
+campaign optimization, revenue attribution, and forecasting. 
 
 Selected work:
 
 * Designed and helped implement a distributed architecture for data collection and processing.
-* Designed forecasting algorithms that became the basis for automated decision-making in advertising campaign management and user acquisition.
-* Used rigorous statistical modeling to discover and mitigate problems in complex data sources.
-* Introduced Go into the company’s software stack and integrated ML/statistical modeling tasks into server-side Go services, partly using libraries written in-house. 
+* Designed forecasting algorithms that became the basis for
+  automated decision-making in advertising campaign management
+  and user acquisition.
+* Used rigorous statistical modeling to discover and mitigate
+  problems in complex data sources.
+* Introduced Go into the company’s software stack and integrated
+  ML/statistical modeling tasks into server-side Go services,
+  partly using libraries written in-house. 
 
 ### CLEW Medical — Computer Scientist
 
-**Netanya · August 2017 – March 2018**
+**August 2017 – March 2018**
 
-Worked on Bayesian inference and deep learning for clinical time-space models and early deterioration prediction in intensive care. 
+Worked on Bayesian inference and deep learning for clinical
+time-space models and early deterioration prediction in
+intensive care. 
 
 Selected work:
 
@@ -100,7 +118,7 @@ Selected work:
 
 ### PayPal — Research Scientist
 
-**Be’er Sheva · August 2015 – July 2017**
+**August 2015 – July 2017**
 
 Applied research in anomaly detection, cybersecurity, and data science. 
 
@@ -112,11 +130,13 @@ Selected work:
 * Led scientific collaboration with Ben-Gurion University.
 * Submitted nine patent applications, contributed to two open-source projects, and co-authored four academic papers. 
 
-### University of Oxford — Post-Doctoral Research Assistant
+### University of Oxford — Post-Doctoral Researcher
 
-**Oxford · August 2014 – July 2015**
+**August 2014 – July 2015**
 
-Worked on probabilistic programming, including the Anglican probabilistic programming system, inference algorithms, and applications of probabilistic programming to AI. 
+Worked on probabilistic programming, including the Anglican
+probabilistic programming system, inference algorithms, and
+applications of probabilistic programming to AI. 
 
 Selected work:
 
@@ -127,28 +147,36 @@ Selected work:
 ### Earlier Experience
 
 **Ben-Gurion University of the Negev — Postdoctoral Researcher / Lecturer / PhD Student**
-Research in rational metareasoning and heuristic search; taught programming languages, systems, computer architecture, compiler construction, and related courses. 
+Research in rational metareasoning and heuristic search; taught
+programming languages, systems, computer architecture, compiler
+construction, and related courses. 
 
 **RenderX — CTO**
-Designed and led implementation of one of the first commercial XSL Formatting Objects engines; wrote core modules of the formatting engine. 
+Designed and led implementation of one of the first commercial
+XSL Formatting Objects engines; wrote core modules of the
+formatting engine. 
 
-**Polimetrix — Consultant**
-Designed and developed a high-volume online survey system with flexible tools for survey designers. 
+**Polimetrix (acquired by YouGov) — Consultant**
+Designed and developed a high-volume online survey system with
+flexible tools for survey designers.
 
 **IREX — IATP Armenia Coordinator**
-Established a network of public internet access points in Armenian universities and libraries; implemented web mail and hosting services; taught internet literacy and web design. 
+Established a network of public internet access points in
+Armenian universities and libraries; implemented web mail and
+hosting services; taught internet literacy and web design. 
 
 ---
 
-## Selected Publications and Research Artifacts
+## Selected Publications
 
-* **MDP Planning as Policy Inference**, 2026.
-* **Bayesian Inference Reuse in Multilevel Models**, 2026.
-* **Neural Human Pose Prior**, 2025.
-* **Fast Neural Inverse Kinematics on Human Body Motions**, 2025.
+* **MDP Planning as Policy Inference**, arXiv 2026.
+* **Bayesian Inference Reuse in Multilevel Models**, TOPML 2026.
+* **Neural Human Pose Prior**, arXiv 2025.
+* **Fast Neural Inverse Kinematics on Human Body Motions**, * arXiv 2025.
 * **Probabilistic programs with stochastic conditioning**, ICML 2021.
-* **Design and implementation of probabilistic programming language Anglican**, 2016.
-* **Selecting computations: Theory and applications**, 2014.
+* **Deployable Probabilistic Programming**, Onward! 2019.
+* **Design and implementation of probabilistic programming * language Anglican**, IFL 2016.
+* **Selecting computations: Theory and applications**, UAI 2014.
 * **MCTS based on simple regret**, AAAI 2012.
 
 ---
@@ -156,11 +184,8 @@ Established a network of public internet access points in Armenian universities 
 ## Patents
 
 Multiple patents and patent applications across machine learning,
-cybersecurity, malware detection, compact tree representations,
-webpage-sequence analysis, fraud prediction, rendering, and document
-formatting. Recent examples include compact tree representation for machine
-learning, malware detection, webpage-sequence representation, and
-sequence/cart-abandonment analysis.  
+cybersecurity, malware detection, fraud prediction, rendering, and document
+formatting. 
 
 ---
 
