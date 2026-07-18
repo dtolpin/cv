@@ -40,9 +40,15 @@ Designing computer vision and graphics algorithms and automating coding harnesse
 
 Selected work:
 
-* Designed and implemented algorithms for computer vision, graphics, and 3D production workflows.
-* Built automation harnesses for coding and experimentation workflows.
-* Worked on practical ML/graphics problems at the boundary between research prototypes and engineering tools.
+* Implemented transfer of garment movements from 2D AI-generated video clips to
+  4D (rigged mesh model) motion sequences. Applied 5D (RGB+XY)
+  optimal-transport differentiable rendering for the task on top of [PyTorch](https://pytorch.org) and [nvdiffrast](https://nvlabs.github.io/nvdiffrast/).
+* Created an self-persisting agent-based framework for prompt-driven authoring
+  and editing of multi-character scenes with physical and intentional
+  interactions. Built the framework around [Pi](https://pi.dev/) 
+  as the agent REPL. Applied compounding engineering principles by turning
+  interactively discovered workflows into reusable agent instructions, skills,
+  tool prompts, and verification procedures.
 
 ### YOOM (acquired by 2K) — Algorithm Engineer
 
@@ -52,10 +58,18 @@ Worked on 3D human modeling and markerless motion-capture problems.
 
 Selected work:
 
-* Developed algorithms and tooling for 3D human body modeling and motion-capture pipelines.
-* Worked on neural pose priors, inverse kinematics, and SMPL-based human pose representations.
-* Built practical ML components intended for use by engineering teams rather than only as standalone research prototypes.
-* Contributed to recent research on neural human pose priors and fast neural inverse kinematics. 
+* Trained a transformer-based keypoint-to-rotations model for 
+  a rigged human body model, serving as an efficient alternative for 
+  coarse motion capture optimization. Helped to adapt the model to online
+  motion capture.
+* Trained a RealNVP-based neural human pose prior with SOTA performance
+  and helped deploy the prior for markerless motion capture.
+* Applied principles of mixture models to help implement efficient
+  and robust markerless motion capture of multi-character scenes.
+* Designed and implemented algorithms for robust and efficient transfer of 2D
+  character faces onto a rigged mesh head model. Coupled the implementation with
+  an AI image generator which facilitated cost-efficient generation of multiply
+  high-quality personalities for games.
 
 ### Ben-Gurion University of the Negev — Senior Lecturer / Assistant Professor
 
