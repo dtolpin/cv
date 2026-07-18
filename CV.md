@@ -59,7 +59,7 @@ Worked on 3D human modeling and markerless motion-capture problems.
 Selected work:
 
 * Trained a keypoints-to-rotations transformer for a rigged
-  human body model, serving as an time-efficient alternative to
+  human body model, serving as a time-efficient alternative to
   coarse motion capture optimization. Helped to adapt the model
   to a studio-deployed online motion capture.
 * Trained a RealNVP-based neural human pose prior with SOTA performance
