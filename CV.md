@@ -175,7 +175,7 @@ hosting services; taught internet literacy and web design.
 * **Fast Neural Inverse Kinematics on Human Body Motions**, * arXiv 2025.
 * **Probabilistic programs with stochastic conditioning**, ICML 2021.
 * **Deployable Probabilistic Programming**, Onward! 2019.
-* **Design and implementation of probabilistic programming * language Anglican**, IFL 2016.
+* **Design and implementation of probabilistic programming language Anglican**, IFL 2016.
 * **Selecting computations: Theory and applications**, UAI 2014.
 * **MCTS based on simple regret**, AAAI 2012.
 
