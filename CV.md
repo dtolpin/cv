@@ -58,31 +58,21 @@ Worked on 3D human modeling and markerless motion-capture problems.
 
 Selected work:
 
-* Trained a transformer-based keypoint-to-rotations model for 
-  a rigged human body model, serving as an efficient alternative for 
-  coarse motion capture optimization. Helped to adapt the model to online
-  motion capture.
+* Trained a keypoints-to-rotations transformer for a rigged
+  human body model, serving as an time-efficient alternative to
+  coarse motion capture optimization. Helped to adapt the model
+  to a studio-deployed online motion capture.
 * Trained a RealNVP-based neural human pose prior with SOTA performance
   and helped deploy the prior for markerless motion capture.
 * Applied principles of mixture models to help implement efficient
   and robust markerless motion capture of multi-character scenes.
-* Designed and implemented algorithms for robust and efficient transfer of 2D
-  character faces onto a rigged mesh head model. Coupled the implementation with
-  an AI image generator which facilitated cost-efficient generation of multiply
-  high-quality personalities for games.
+* Designed and implemented algorithms for robust and efficient
+  transfer of 2D character faces onto a rigged mesh head model.
+  Coupled the implementation with an AI image generator which
+  facilitated cost-efficient generation of diverse high-quality
+  personalities for games.
 
 ### Ben-Gurion University of the Negev — Senior Lecturer / Assistant Professor
-
-**October 2019 – October 2025**
-
-Research and teaching in probabilistic programming, Bayesian statistical modeling, AI planning, and reinforcement learning. 
-
-Selected work:
-
-* Conducted research in probabilistic programming, Bayesian inference, planning, and reinforcement learning.
-* Published work on planning as policy inference, Bayesian inference reuse in multilevel models, probabilistic programs as action descriptions, stochastic conditioning, and related topics.
-* Supervised and collaborated on research bridging probabilistic modeling, AI planning, and implementable inference systems.
-* Taught courses "Mathematical foundations of computer science" and "Applied Bayesian data analysis".
 
 ### Wild Biotech — Machine Learning Scientist
 
@@ -96,6 +86,24 @@ Selected work:
 * Invented, evaluated, and deployed a state-of-the-art method for post-processing and analysis of phage-display NGS results.
 * Helped the team adopt modern software development techniques, tools, and libraries.
 * Improved information flow and technical coordination in a distributed hybrid team. 
+
+**October 2019 – October 2025**
+
+Research and teaching in probabilistic programming, Bayesian statistical modeling, AI planning, and reinforcement learning. 
+
+Selected work:
+
+* Conducted research in probabilistic programming, Bayesian
+  inference, planning, and reinforcement learning.  Published
+  work on planning as policy inference, Bayesian
+  inference reuse in multilevel models, probabilistic programs
+  as action descriptions, stochastic conditioning, and related
+  topics.
+* Supervised and collaborated on research bridging probabilistic
+  modeling, AI planning, and implementable inference systems.
+* Authored and taught courses "Mathematical foundations of
+  computer science" and "Applied Bayesian data analysis".
+
 
 ### PubPlus — Chief Data Scientist
 
