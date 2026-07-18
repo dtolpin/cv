@@ -43,7 +43,7 @@ Selected work:
 * Implemented transfer of garment movements from 2D AI-generated video clips to
   4D (rigged mesh model) motion sequences. Applied 5D (RGB+XY)
   optimal-transport differentiable rendering for the task on top of [PyTorch](https://pytorch.org) and [nvdiffrast](https://nvlabs.github.io/nvdiffrast/).
-* Created an self-persisting agent-based framework for prompt-driven authoring
+* Created a self-persisting agent-based framework for prompt-driven authoring
   and editing of multi-character scenes with physical and intentional
   interactions. Built the framework around [Pi](https://pi.dev/) 
   as the agent REPL. Applied compounding engineering principles by turning
