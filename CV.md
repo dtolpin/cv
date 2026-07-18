@@ -61,7 +61,7 @@ Selected work:
 * Trained a keypoints-to-rotations transformer for a rigged
   human body model, serving as a time-efficient alternative to
   coarse motion capture optimization. Helped to adapt the model
-  to a studio-deployed online motion capture.
+  to studio-deployed online motion capture.
 * Trained a RealNVP-based neural human pose prior with SOTA performance
   and helped deploy the prior for markerless motion capture.
 * Applied principles of mixture models to help implement efficient
@@ -71,8 +71,6 @@ Selected work:
   Coupled the implementation with an AI image generator which
   facilitated cost-efficient generation of diverse high-quality
   personalities for games.
-
-### Ben-Gurion University of the Negev — Senior Lecturer / Assistant Professor
 
 ### Wild Biotech — Machine Learning Scientist
 
@@ -86,6 +84,8 @@ Selected work:
 * Invented, evaluated, and deployed a state-of-the-art method for post-processing and analysis of phage-display NGS results.
 * Helped the team adopt modern software development techniques, tools, and libraries.
 * Improved information flow and technical coordination in a distributed hybrid team. 
+
+### Ben-Gurion University of the Negev — Senior Lecturer / Assistant Professor
 
 **October 2019 – October 2025**
 
