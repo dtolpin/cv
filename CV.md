@@ -214,7 +214,7 @@ formatting.
 ## Education
 
 **PhD, Computer Science** — Ben-Gurion University of the Negev, 2010–2013
-**MSc, Computer Science** — Ben-Gurion University, 2007–2009 
+**MSc, Computer Science** — Ben-Gurion University of the Negev, 2007–2009 
 
 ---
 
