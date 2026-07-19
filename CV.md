@@ -105,7 +105,7 @@ Selected work:
   computer science" and "Applied Bayesian data analysis".
 
 
-### PubPlus — Chief Data Scientist
+### PubPlus (acquired by ClearPier) — Chief Data Scientist
 
 **May 2018 – September 2022**
 
